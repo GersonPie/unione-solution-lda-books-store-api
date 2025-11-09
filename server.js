@@ -17,7 +17,7 @@ const { getCategories } = require('./middleware/categories-middleware');
 
 ////////////////////////////////////////////////////
 const api = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT;
 api.use(cors());
 api.use((req,res,next)=>{sendlog(req.path + ' accessed \n'), next()});
 api.use(bodyParser.urlencoded({ extended: true }));
@@ -61,7 +61,9 @@ async function connect_db(){
   
 }
 /////////////////////////////////////////////////////
-start_server()
+const app = api ;
+if (PORT)start_server()
+module.exports = app;
 //connect_db()
 ////////////////////////////////////////////////////
 ////////////// UNIONE SOLUTION LDA ////////////////
