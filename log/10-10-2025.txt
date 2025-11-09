@@ -1,0 +1,868 @@
+10/10/2025: Log File Created
+10/10/2025, 13:14:34: system started
+10/10/2025, 13:14:35: system started
+10/10/2025, 13:16:52: /getbooksrequest received
+10/10/2025, 13:18:08: /getbooksrequest received
+10/10/2025, 13:18:14: /getbooksrequest received
+10/10/2025, 13:18:36: /cardsrequest received
+10/10/2025, 13:18:36: getcards/ cards data requested
+10/10/2025, 13:18:36: /getbooksrequest received
+10/10/2025, 13:18:40: /cardsrequest received
+10/10/2025, 13:18:40: getcards/ cards data requested
+10/10/2025, 13:18:40: /getbooksrequest received
+10/10/2025, 13:19:23: /getbooksrequest received
+10/10/2025, 13:19:28: /getbooksrequest received
+10/10/2025, 13:19:36: /getbooksrequest received
+10/10/2025, 13:19:38: /getbooksrequest received
+10/10/2025, 13:19:40: /getbooksrequest received
+10/10/2025, 13:19:41: /getbooksrequest received
+10/10/2025, 13:19:41: /getbooksrequest received
+10/10/2025, 13:20:28: /cardsrequest received
+10/10/2025, 13:20:28: getcards/ cards data requested
+10/10/2025, 13:20:28: /booksrequest received
+10/10/2025, 13:20:28: Function - getBooks(): starting...
+10/10/2025, 13:20:37: /getbooksrequest received
+10/10/2025, 13:22:10: /cardsrequest received
+10/10/2025, 13:22:10: getcards/ cards data requested
+10/10/2025, 13:22:10: /booksrequest received
+10/10/2025, 13:22:10: Function - getBooks(): starting...
+10/10/2025, 13:22:46: /cardsrequest received
+10/10/2025, 13:22:46: getcards/ cards data requested
+10/10/2025, 13:22:46: /booksrequest received
+10/10/2025, 13:22:46: Function - getBooks(): starting...
+10/10/2025, 13:22:47: /cardsrequest received
+10/10/2025, 13:22:47: getcards/ cards data requested
+10/10/2025, 13:22:47: /booksrequest received
+10/10/2025, 13:22:47: Function - getBooks(): starting...
+10/10/2025, 13:23:22: system started
+10/10/2025, 13:23:30: system started
+10/10/2025, 13:23:36: system started
+10/10/2025, 13:23:38: system started
+10/10/2025, 13:23:49: system started
+10/10/2025, 13:23:51: system started
+10/10/2025, 13:23:53: system started
+10/10/2025, 13:23:54: system started
+10/10/2025, 13:23:56: system started
+10/10/2025, 13:24:14: system started
+10/10/2025, 13:24:15: system started
+10/10/2025, 13:24:17: system started
+10/10/2025, 13:24:20: system started
+10/10/2025, 13:24:22: system started
+10/10/2025, 13:24:27: /cardsrequest received
+10/10/2025, 13:24:27: getcards/ cards data requested
+10/10/2025, 13:24:27: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 13:24:27: /booksrequest received
+10/10/2025, 13:24:27: Function - getBooks(): starting...
+10/10/2025, 13:24:27: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 13:24:27: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 13:24:27: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 13:24:27: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 13:24:41: /cardsrequest received
+10/10/2025, 13:24:41: getcards/ cards data requested
+10/10/2025, 13:24:41: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 13:24:41: /booksrequest received
+10/10/2025, 13:24:41: Function - getBooks(): starting...
+10/10/2025, 13:24:50: /cardsrequest received
+10/10/2025, 13:24:50: getcards/ cards data requested
+10/10/2025, 13:24:50: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 13:24:50: /booksrequest received
+10/10/2025, 13:24:50: Function - getBooks(): starting...
+10/10/2025, 13:24:52: /cardsrequest received
+10/10/2025, 13:24:52: getcards/ cards data requested
+10/10/2025, 13:24:52: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 13:24:52: /booksrequest received
+10/10/2025, 13:24:52: Function - getBooks(): starting...
+10/10/2025, 13:24:53: /cardsrequest received
+10/10/2025, 13:24:53: getcards/ cards data requested
+10/10/2025, 13:24:53: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 13:24:53: /booksrequest received
+10/10/2025, 13:24:53: Function - getBooks(): starting...
+10/10/2025, 13:24:53: /booksrequest received
+10/10/2025, 13:24:53: Function - getBooks(): starting...
+10/10/2025, 13:24:57: /booksrequest received
+10/10/2025, 13:24:57: Function - getBooks(): starting...
+10/10/2025, 13:25:10: /cardsrequest received
+10/10/2025, 13:25:10: getcards/ cards data requested
+10/10/2025, 13:25:10: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 13:25:10: /booksrequest received
+10/10/2025, 13:25:10: Function - getBooks(): starting...
+10/10/2025, 13:26:25: system started
+10/10/2025, 13:26:36: system started
+10/10/2025, 13:26:37: system started
+10/10/2025, 13:26:38: system started
+10/10/2025, 13:27:45: system started
+10/10/2025, 13:28:08: system started
+10/10/2025, 13:28:09: system started
+10/10/2025, 13:28:33: system started
+10/10/2025, 13:28:50: system started
+10/10/2025, 13:28:52: system started
+10/10/2025, 13:29:35: system started
+10/10/2025, 13:29:46: system started
+10/10/2025, 13:29:48: system started
+10/10/2025, 13:29:50: system started
+10/10/2025, 13:29:55: system started
+10/10/2025, 13:30:00: system started
+10/10/2025, 13:30:02: system started
+10/10/2025, 13:30:06: system started
+10/10/2025, 13:34:04: system started
+10/10/2025, 13:34:08: system started
+10/10/2025, 13:34:25: system started
+10/10/2025, 13:34:33: system started
+10/10/2025, 13:36:24: system started
+10/10/2025, 13:36:25: system started
+10/10/2025, 13:36:26: system started
+10/10/2025, 13:36:31: system started
+10/10/2025, 13:36:35: system started
+10/10/2025, 13:37:03: system started
+10/10/2025, 13:38:19: system started
+10/10/2025, 13:38:24: system started
+10/10/2025, 13:40:15: system started
+10/10/2025, 13:40:26: system started
+10/10/2025, 13:40:27: system started
+10/10/2025, 13:40:30: system started
+10/10/2025, 13:40:36: system started
+10/10/2025, 13:41:07: system started
+10/10/2025, 13:56:33: /cardsrequest received
+10/10/2025, 13:56:33: getcards/ cards data requested
+10/10/2025, 13:56:33: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 13:56:33: /booksrequest received
+10/10/2025, 13:56:33: Function - getBooks(): starting...
+10/10/2025, 13:56:34: /cardsrequest received
+10/10/2025, 13:56:34: getcards/ cards data requested
+10/10/2025, 13:56:34: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 13:56:34: /booksrequest received
+10/10/2025, 13:56:34: Function - getBooks(): starting...
+10/10/2025, 13:56:38: /cardsrequest received
+10/10/2025, 13:56:38: getcards/ cards data requested
+10/10/2025, 13:56:38: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 13:56:38: /booksrequest received
+10/10/2025, 13:56:38: Function - getBooks(): starting...
+10/10/2025, 13:57:03: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 13:57:03: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 13:57:03: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 13:57:04: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 13:58:56: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 13:58:56: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 13:58:56: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 13:58:56: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 14:00:05: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 14:00:05: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 14:00:05: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 14:00:05: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 15:22:44: system started
+10/10/2025, 15:42:38: /cardsrequest received
+10/10/2025, 15:42:38: getcards/ cards data requested
+10/10/2025, 15:42:38: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 15:42:38: /categoriesrequest received
+10/10/2025, 15:42:38: /categoriesrequest received
+10/10/2025, 15:42:38: /booksrequest received
+10/10/2025, 15:42:38: Function - getBooks(): starting...
+10/10/2025, 15:42:38: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 15:42:38: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 15:42:38: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 15:42:38: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 15:43:42: system started
+10/10/2025, 15:56:36: system started
+10/10/2025, 15:56:42: /cardsrequest received
+10/10/2025, 15:56:42: getcards/ cards data requested
+10/10/2025, 15:56:42: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 15:56:42: /categoriesrequest received
+10/10/2025, 15:56:42: getCategories(): categories request received
+10/10/2025, 15:56:42: /categoriesrequest received
+10/10/2025, 15:56:42: getCategories(): categories request received
+10/10/2025, 15:56:42: /booksrequest received
+10/10/2025, 15:56:42: Function - getBooks(): starting...
+10/10/2025, 15:56:49: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 15:56:49: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 15:56:49: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 15:56:49: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 16:06:52: /cardsrequest received
+10/10/2025, 16:06:52: getcards/ cards data requested
+10/10/2025, 16:06:52: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 16:06:52: /categoriesrequest received
+10/10/2025, 16:06:52: getCategories(): categories request received
+10/10/2025, 16:06:52: /categoriesrequest received
+10/10/2025, 16:06:52: getCategories(): categories request received
+10/10/2025, 16:06:52: /booksrequest received
+10/10/2025, 16:06:52: Function - getBooks(): starting...
+10/10/2025, 16:06:52: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 16:06:52: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 16:06:52: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 16:06:52: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 16:07:31: /cardsrequest received
+10/10/2025, 16:07:31: getcards/ cards data requested
+10/10/2025, 16:07:31: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 16:07:31: /categoriesrequest received
+10/10/2025, 16:07:31: getCategories(): categories request received
+10/10/2025, 16:07:31: /categoriesrequest received
+10/10/2025, 16:07:31: getCategories(): categories request received
+10/10/2025, 16:07:31: /booksrequest received
+10/10/2025, 16:07:31: Function - getBooks(): starting...
+10/10/2025, 16:07:47: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 16:07:47: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 16:07:47: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 16:07:47: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 16:14:37: /categoriesrequest received
+10/10/2025, 16:14:37: getCategories(): categories request received
+10/10/2025, 16:14:54: /cardsrequest received
+10/10/2025, 16:14:54: getcards/ cards data requested
+10/10/2025, 16:14:54: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 16:14:54: /categoriesrequest received
+10/10/2025, 16:14:54: getCategories(): categories request received
+10/10/2025, 16:14:54: /categoriesrequest received
+10/10/2025, 16:14:54: getCategories(): categories request received
+10/10/2025, 16:14:54: /booksrequest received
+10/10/2025, 16:14:54: Function - getBooks(): starting...
+10/10/2025, 16:14:54: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 16:14:54: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 16:14:54: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 16:14:54: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 16:16:49: /cardsrequest received
+10/10/2025, 16:16:49: getcards/ cards data requested
+10/10/2025, 16:16:49: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 16:16:49: /categoriesrequest received
+10/10/2025, 16:16:49: getCategories(): categories request received
+10/10/2025, 16:16:49: /categoriesrequest received
+10/10/2025, 16:16:49: getCategories(): categories request received
+10/10/2025, 16:16:49: /booksrequest received
+10/10/2025, 16:16:49: Function - getBooks(): starting...
+10/10/2025, 16:16:49: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 16:16:49: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 16:16:49: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 16:16:49: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 16:22:30: /cardsrequest received
+10/10/2025, 16:22:30: getcards/ cards data requested
+10/10/2025, 16:22:30: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 16:22:30: /categoriesrequest received
+10/10/2025, 16:22:30: getCategories(): categories request received
+10/10/2025, 16:22:30: /categoriesrequest received
+10/10/2025, 16:22:30: getCategories(): categories request received
+10/10/2025, 16:22:30: /booksrequest received
+10/10/2025, 16:22:30: Function - getBooks(): starting...
+10/10/2025, 16:22:30: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 16:22:30: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 16:22:30: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 16:22:30: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 16:23:50: /cardsrequest received
+10/10/2025, 16:23:50: getcards/ cards data requested
+10/10/2025, 16:23:50: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 16:23:50: /categoriesrequest received
+10/10/2025, 16:23:50: getCategories(): categories request received
+10/10/2025, 16:23:50: /categoriesrequest received
+10/10/2025, 16:23:50: getCategories(): categories request received
+10/10/2025, 16:23:50: /booksrequest received
+10/10/2025, 16:23:50: Function - getBooks(): starting...
+10/10/2025, 16:23:50: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 16:23:50: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 16:23:50: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 16:23:50: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 16:24:36: /cardsrequest received
+10/10/2025, 16:24:36: getcards/ cards data requested
+10/10/2025, 16:24:36: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 16:24:36: /categoriesrequest received
+10/10/2025, 16:24:36: getCategories(): categories request received
+10/10/2025, 16:24:36: /categoriesrequest received
+10/10/2025, 16:24:36: getCategories(): categories request received
+10/10/2025, 16:24:36: /booksrequest received
+10/10/2025, 16:24:36: Function - getBooks(): starting...
+10/10/2025, 16:24:36: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 16:24:36: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 16:24:36: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 16:24:36: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 16:24:57: /cardsrequest received
+10/10/2025, 16:24:57: getcards/ cards data requested
+10/10/2025, 16:24:57: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 16:24:57: /categoriesrequest received
+10/10/2025, 16:24:57: getCategories(): categories request received
+10/10/2025, 16:24:57: /categoriesrequest received
+10/10/2025, 16:24:57: getCategories(): categories request received
+10/10/2025, 16:24:57: /booksrequest received
+10/10/2025, 16:24:57: Function - getBooks(): starting...
+10/10/2025, 16:24:57: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 16:24:57: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 16:24:57: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 16:24:57: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 16:25:59: /cardsrequest received
+10/10/2025, 16:25:59: getcards/ cards data requested
+10/10/2025, 16:25:59: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 16:25:59: /categoriesrequest received
+10/10/2025, 16:25:59: getCategories(): categories request received
+10/10/2025, 16:25:59: /categoriesrequest received
+10/10/2025, 16:25:59: getCategories(): categories request received
+10/10/2025, 16:25:59: /booksrequest received
+10/10/2025, 16:25:59: Function - getBooks(): starting...
+10/10/2025, 16:25:59: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 16:25:59: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 16:25:59: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 16:25:59: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 16:26:13: /cardsrequest received
+10/10/2025, 16:26:13: getcards/ cards data requested
+10/10/2025, 16:26:13: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 16:26:13: /categoriesrequest received
+10/10/2025, 16:26:13: getCategories(): categories request received
+10/10/2025, 16:26:13: /categoriesrequest received
+10/10/2025, 16:26:13: getCategories(): categories request received
+10/10/2025, 16:26:13: /booksrequest received
+10/10/2025, 16:26:13: Function - getBooks(): starting...
+10/10/2025, 16:26:14: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 16:26:14: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 16:26:14: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 16:26:14: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 16:27:29: /cardsrequest received
+10/10/2025, 16:27:29: getcards/ cards data requested
+10/10/2025, 16:27:29: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 16:27:29: /categoriesrequest received
+10/10/2025, 16:27:29: getCategories(): categories request received
+10/10/2025, 16:27:29: /categoriesrequest received
+10/10/2025, 16:27:29: getCategories(): categories request received
+10/10/2025, 16:27:29: /booksrequest received
+10/10/2025, 16:27:29: Function - getBooks(): starting...
+10/10/2025, 16:27:29: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 16:27:29: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 16:27:29: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 16:27:29: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 16:27:31: /cardsrequest received
+10/10/2025, 16:27:31: getcards/ cards data requested
+10/10/2025, 16:27:31: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 16:27:31: /categoriesrequest received
+10/10/2025, 16:27:31: getCategories(): categories request received
+10/10/2025, 16:27:31: /categoriesrequest received
+10/10/2025, 16:27:31: getCategories(): categories request received
+10/10/2025, 16:27:31: /booksrequest received
+10/10/2025, 16:27:31: Function - getBooks(): starting...
+10/10/2025, 16:27:32: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 16:27:32: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 16:27:32: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 16:27:32: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 16:27:32: /cardsrequest received
+10/10/2025, 16:27:32: getcards/ cards data requested
+10/10/2025, 16:27:32: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 16:27:32: /categoriesrequest received
+10/10/2025, 16:27:32: getCategories(): categories request received
+10/10/2025, 16:27:32: /categoriesrequest received
+10/10/2025, 16:27:32: getCategories(): categories request received
+10/10/2025, 16:27:32: /booksrequest received
+10/10/2025, 16:27:32: Function - getBooks(): starting...
+10/10/2025, 16:27:32: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 16:27:32: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 16:27:32: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 16:27:32: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 16:30:35: /cardsrequest received
+10/10/2025, 16:30:35: getcards/ cards data requested
+10/10/2025, 16:30:35: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 16:30:35: /categoriesrequest received
+10/10/2025, 16:30:35: getCategories(): categories request received
+10/10/2025, 16:30:35: /categoriesrequest received
+10/10/2025, 16:30:35: getCategories(): categories request received
+10/10/2025, 16:30:35: /booksrequest received
+10/10/2025, 16:30:35: Function - getBooks(): starting...
+10/10/2025, 16:30:35: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 16:30:35: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 16:30:35: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 16:30:35: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 16:54:18: /cardsrequest received
+10/10/2025, 16:54:18: getcards/ cards data requested
+10/10/2025, 16:54:18: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 16:54:18: /categoriesrequest received
+10/10/2025, 16:54:18: getCategories(): categories request received
+10/10/2025, 16:54:18: /categoriesrequest received
+10/10/2025, 16:54:18: getCategories(): categories request received
+10/10/2025, 16:54:18: /booksrequest received
+10/10/2025, 16:54:18: Function - getBooks(): starting...
+10/10/2025, 16:54:18: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 16:54:18: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 16:54:18: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 16:54:18: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 16:54:51: /cardsrequest received
+10/10/2025, 16:54:51: getcards/ cards data requested
+10/10/2025, 16:54:51: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 16:54:51: /categoriesrequest received
+10/10/2025, 16:54:51: getCategories(): categories request received
+10/10/2025, 16:54:51: /categoriesrequest received
+10/10/2025, 16:54:51: getCategories(): categories request received
+10/10/2025, 16:54:51: /booksrequest received
+10/10/2025, 16:54:51: Function - getBooks(): starting...
+10/10/2025, 16:54:51: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 16:54:51: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 16:54:51: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 16:54:51: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 16:55:07: /cardsrequest received
+10/10/2025, 16:55:07: getcards/ cards data requested
+10/10/2025, 16:55:07: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 16:55:07: /categoriesrequest received
+10/10/2025, 16:55:07: getCategories(): categories request received
+10/10/2025, 16:55:07: /categoriesrequest received
+10/10/2025, 16:55:07: getCategories(): categories request received
+10/10/2025, 16:55:07: /booksrequest received
+10/10/2025, 16:55:07: Function - getBooks(): starting...
+10/10/2025, 16:55:07: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 16:55:07: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 16:55:07: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 16:55:07: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 17:00:00: /cardsrequest received
+10/10/2025, 17:00:00: getcards/ cards data requested
+10/10/2025, 17:00:00: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 17:00:00: /categoriesrequest received
+10/10/2025, 17:00:00: getCategories(): categories request received
+10/10/2025, 17:00:00: /categoriesrequest received
+10/10/2025, 17:00:00: getCategories(): categories request received
+10/10/2025, 17:00:00: /booksrequest received
+10/10/2025, 17:00:00: Function - getBooks(): starting...
+10/10/2025, 17:00:01: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 17:00:01: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 17:00:01: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 17:00:01: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 17:12:20: /cardsrequest received
+10/10/2025, 17:12:20: getcards/ cards data requested
+10/10/2025, 17:12:20: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 17:12:21: /categoriesrequest received
+10/10/2025, 17:12:21: getCategories(): categories request received
+10/10/2025, 17:12:21: /categoriesrequest received
+10/10/2025, 17:12:21: getCategories(): categories request received
+10/10/2025, 17:12:21: /booksrequest received
+10/10/2025, 17:12:21: Function - getBooks(): starting...
+10/10/2025, 17:12:21: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 17:12:21: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 17:12:21: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 17:12:21: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 17:13:17: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 17:13:17: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 17:13:17: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 17:13:17: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 17:14:03: /cardsrequest received
+10/10/2025, 17:14:03: getcards/ cards data requested
+10/10/2025, 17:14:03: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 17:14:03: /categoriesrequest received
+10/10/2025, 17:14:03: getCategories(): categories request received
+10/10/2025, 17:14:03: /categoriesrequest received
+10/10/2025, 17:14:03: getCategories(): categories request received
+10/10/2025, 17:14:03: /booksrequest received
+10/10/2025, 17:14:03: Function - getBooks(): starting...
+10/10/2025, 17:14:04: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 17:14:04: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 17:14:04: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 17:14:04: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 17:14:43: /cardsrequest received
+10/10/2025, 17:14:43: getcards/ cards data requested
+10/10/2025, 17:14:43: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 17:14:43: /categoriesrequest received
+10/10/2025, 17:14:43: getCategories(): categories request received
+10/10/2025, 17:14:43: /categoriesrequest received
+10/10/2025, 17:14:43: getCategories(): categories request received
+10/10/2025, 17:14:43: /booksrequest received
+10/10/2025, 17:14:43: Function - getBooks(): starting...
+10/10/2025, 17:14:43: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 17:14:43: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 17:14:43: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 17:14:43: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 17:15:23: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 17:15:23: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 17:15:23: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 17:15:23: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 17:17:30: /cardsrequest received
+10/10/2025, 17:17:30: getcards/ cards data requested
+10/10/2025, 17:17:30: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 17:17:30: /categoriesrequest received
+10/10/2025, 17:17:30: getCategories(): categories request received
+10/10/2025, 17:17:30: /categoriesrequest received
+10/10/2025, 17:17:30: getCategories(): categories request received
+10/10/2025, 17:17:30: /booksrequest received
+10/10/2025, 17:17:30: Function - getBooks(): starting...
+10/10/2025, 17:17:30: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 17:17:30: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 17:17:30: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 17:17:30: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 17:30:21: /categoriesrequest received
+10/10/2025, 17:30:21: getCategories(): categories request received
+10/10/2025, 17:30:23: /categoriesrequest received
+10/10/2025, 17:30:23: getCategories(): categories request received
+10/10/2025, 17:32:01: /categoriesrequest received
+10/10/2025, 17:32:01: getCategories(): categories request received
+10/10/2025, 17:32:06: /categoriesrequest received
+10/10/2025, 17:32:06: getCategories(): categories request received
+10/10/2025, 17:33:28: /cardsrequest received
+10/10/2025, 17:33:28: getcards/ cards data requested
+10/10/2025, 17:33:28: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 17:33:32: /categoriesrequest received
+10/10/2025, 17:33:32: getCategories(): categories request received
+10/10/2025, 17:33:32: /categoriesrequest received
+10/10/2025, 17:33:32: getCategories(): categories request received
+10/10/2025, 17:33:33: /booksrequest received
+10/10/2025, 17:33:33: Function - getBooks(): starting...
+10/10/2025, 17:33:33: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 17:33:33: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 17:33:33: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 17:33:33: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 17:39:22: /cardsrequest received
+10/10/2025, 17:39:22: getcards/ cards data requested
+10/10/2025, 17:39:22: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 17:39:22: /categoriesrequest received
+10/10/2025, 17:39:22: getCategories(): categories request received
+10/10/2025, 17:39:22: /categoriesrequest received
+10/10/2025, 17:39:22: getCategories(): categories request received
+10/10/2025, 17:39:22: /booksrequest received
+10/10/2025, 17:39:22: Function - getBooks(): starting...
+10/10/2025, 17:39:23: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 17:39:23: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 17:39:23: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 17:39:23: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 17:39:27: /cardsrequest received
+10/10/2025, 17:39:27: getcards/ cards data requested
+10/10/2025, 17:39:27: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 17:39:27: /categoriesrequest received
+10/10/2025, 17:39:27: getCategories(): categories request received
+10/10/2025, 17:39:27: /categoriesrequest received
+10/10/2025, 17:39:27: getCategories(): categories request received
+10/10/2025, 17:39:27: /booksrequest received
+10/10/2025, 17:39:27: Function - getBooks(): starting...
+10/10/2025, 17:39:27: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 17:39:27: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 17:39:27: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 17:39:27: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 17:40:14: /cardsrequest received
+10/10/2025, 17:40:14: getcards/ cards data requested
+10/10/2025, 17:40:14: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 17:40:14: /categoriesrequest received
+10/10/2025, 17:40:14: getCategories(): categories request received
+10/10/2025, 17:40:14: /categoriesrequest received
+10/10/2025, 17:40:14: getCategories(): categories request received
+10/10/2025, 17:40:16: /booksrequest received
+10/10/2025, 17:40:16: Function - getBooks(): starting...
+10/10/2025, 17:40:16: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 17:40:16: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 17:40:16: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 17:40:16: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 17:46:05: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 17:46:05: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 17:46:05: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 17:46:05: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 17:50:37: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 17:50:37: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 17:50:37: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 17:50:37: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 18:03:54: /cardsrequest received
+10/10/2025, 18:03:54: getcards/ cards data requested
+10/10/2025, 18:03:54: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 18:03:55: /categoriesrequest received
+10/10/2025, 18:03:55: getCategories(): categories request received
+10/10/2025, 18:03:55: /categoriesrequest received
+10/10/2025, 18:03:55: getCategories(): categories request received
+10/10/2025, 18:03:55: /booksrequest received
+10/10/2025, 18:03:55: Function - getBooks(): starting...
+10/10/2025, 18:03:55: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 18:03:55: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 18:03:55: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 18:03:56: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 18:12:01: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 18:12:01: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 18:12:01: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 18:12:01: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 18:12:28: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 18:12:28: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 18:12:28: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 18:12:28: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 18:18:12: /categoriesrequest received
+10/10/2025, 18:18:12: getCategories(): categories request received
+10/10/2025, 18:18:19: /categoriesrequest received
+10/10/2025, 18:18:19: getCategories(): categories request received
+10/10/2025, 18:18:20: /categoriesrequest received
+10/10/2025, 18:18:20: getCategories(): categories request received
+10/10/2025, 18:18:27: /categoriesrequest received
+10/10/2025, 18:18:27: getCategories(): categories request received
+10/10/2025, 18:18:29: /categoriesrequest received
+10/10/2025, 18:18:29: getCategories(): categories request received
+10/10/2025, 18:18:31: /categoriesrequest received
+10/10/2025, 18:18:31: getCategories(): categories request received
+10/10/2025, 18:18:43: /categoriesrequest received
+10/10/2025, 18:18:43: getCategories(): categories request received
+10/10/2025, 18:19:14: /cardsrequest received
+10/10/2025, 18:19:14: getcards/ cards data requested
+10/10/2025, 18:19:14: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 18:19:14: /categoriesrequest received
+10/10/2025, 18:19:14: getCategories(): categories request received
+10/10/2025, 18:19:14: /categoriesrequest received
+10/10/2025, 18:19:14: getCategories(): categories request received
+10/10/2025, 18:19:14: /booksrequest received
+10/10/2025, 18:19:14: Function - getBooks(): starting...
+10/10/2025, 18:19:14: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 18:19:14: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 18:19:14: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 18:19:14: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 18:20:20: /cardsrequest received
+10/10/2025, 18:20:20: getcards/ cards data requested
+10/10/2025, 18:20:20: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 18:20:20: /categoriesrequest received
+10/10/2025, 18:20:20: getCategories(): categories request received
+10/10/2025, 18:20:20: /categoriesrequest received
+10/10/2025, 18:20:20: getCategories(): categories request received
+10/10/2025, 18:20:20: /booksrequest received
+10/10/2025, 18:20:20: Function - getBooks(): starting...
+10/10/2025, 18:20:20: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 18:20:20: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 18:20:20: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 18:20:20: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 18:25:07: /cardsrequest received
+10/10/2025, 18:25:07: getcards/ cards data requested
+10/10/2025, 18:25:07: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 18:25:07: /categoriesrequest received
+10/10/2025, 18:25:07: getCategories(): categories request received
+10/10/2025, 18:25:07: /categoriesrequest received
+10/10/2025, 18:25:07: getCategories(): categories request received
+10/10/2025, 18:25:07: /booksrequest received
+10/10/2025, 18:25:07: Function - getBooks(): starting...
+10/10/2025, 18:25:07: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 18:25:07: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 18:25:07: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 18:25:07: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 18:28:11: /categoriesrequest received
+10/10/2025, 18:28:11: getCategories(): categories request received
+10/10/2025, 18:28:40: /categoriesrequest received
+10/10/2025, 18:28:40: getCategories(): categories request received
+10/10/2025, 18:28:42: /categoriesrequest received
+10/10/2025, 18:28:42: getCategories(): categories request received
+10/10/2025, 18:28:46: /categoriesrequest received
+10/10/2025, 18:28:46: getCategories(): categories request received
+10/10/2025, 18:28:48: /categoriesrequest received
+10/10/2025, 18:28:48: getCategories(): categories request received
+10/10/2025, 18:29:36: /categoriesrequest received
+10/10/2025, 18:29:36: getCategories(): categories request received
+10/10/2025, 18:30:43: /categoriesrequest received
+10/10/2025, 18:30:43: getCategories(): categories request received
+10/10/2025, 18:30:52: /categoriesrequest received
+10/10/2025, 18:30:52: getCategories(): categories request received
+10/10/2025, 18:32:46: /categoriesrequest received
+10/10/2025, 18:32:46: getCategories(): categories request received
+10/10/2025, 18:32:58: /categoriesrequest received
+10/10/2025, 18:32:58: getCategories(): categories request received
+10/10/2025, 18:34:18: /categoriesrequest received
+10/10/2025, 18:34:18: getCategories(): categories request received
+10/10/2025, 18:34:27: /categoriesrequest received
+10/10/2025, 18:34:27: getCategories(): categories request received
+10/10/2025, 18:36:29: /categoriesrequest received
+10/10/2025, 18:36:29: getCategories(): categories request received
+10/10/2025, 18:36:47: /categoriesrequest received
+10/10/2025, 18:36:47: getCategories(): categories request received
+10/10/2025, 18:36:55: /categoriesrequest received
+10/10/2025, 18:36:55: getCategories(): categories request received
+10/10/2025, 18:37:02: /categoriesrequest received
+10/10/2025, 18:37:02: getCategories(): categories request received
+10/10/2025, 18:39:23: /categoriesrequest received
+10/10/2025, 18:39:23: getCategories(): categories request received
+10/10/2025, 18:39:27: /categoriesrequest received
+10/10/2025, 18:39:27: getCategories(): categories request received
+10/10/2025, 18:39:27: /categoriesrequest received
+10/10/2025, 18:39:27: getCategories(): categories request received
+10/10/2025, 18:39:34: /categoriesrequest received
+10/10/2025, 18:39:34: getCategories(): categories request received
+10/10/2025, 18:39:46: /categoriesrequest received
+10/10/2025, 18:39:46: getCategories(): categories request received
+10/10/2025, 18:39:48: /categoriesrequest received
+10/10/2025, 18:39:48: getCategories(): categories request received
+10/10/2025, 18:39:56: /categoriesrequest received
+10/10/2025, 18:39:56: getCategories(): categories request received
+10/10/2025, 18:40:37: /categoriesrequest received
+10/10/2025, 18:40:37: getCategories(): categories request received
+10/10/2025, 18:41:57: /categoriesrequest received
+10/10/2025, 18:41:57: getCategories(): categories request received
+10/10/2025, 18:42:22: /categoriesrequest received
+10/10/2025, 18:42:22: getCategories(): categories request received
+10/10/2025, 18:42:35: /categoriesrequest received
+10/10/2025, 18:42:35: getCategories(): categories request received
+10/10/2025, 18:42:50: /categoriesrequest received
+10/10/2025, 18:42:50: getCategories(): categories request received
+10/10/2025, 18:44:17: /cardsrequest received
+10/10/2025, 18:44:17: getcards/ cards data requested
+10/10/2025, 18:44:17: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 18:44:39: /categoriesrequest received
+10/10/2025, 18:44:39: getCategories(): categories request received
+10/10/2025, 18:50:13: /categoriesrequest received
+10/10/2025, 18:50:13: getCategories(): categories request received
+10/10/2025, 18:50:16: /categoriesrequest received
+10/10/2025, 18:50:16: getCategories(): categories request received
+10/10/2025, 18:50:24: /categoriesrequest received
+10/10/2025, 18:50:24: getCategories(): categories request received
+10/10/2025, 18:53:27: /cardsrequest received
+10/10/2025, 18:53:27: getcards/ cards data requested
+10/10/2025, 18:53:27: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 18:53:27: /categoriesrequest received
+10/10/2025, 18:53:27: getCategories(): categories request received
+10/10/2025, 18:53:27: /categoriesrequest received
+10/10/2025, 18:53:27: getCategories(): categories request received
+10/10/2025, 18:53:27: /booksrequest received
+10/10/2025, 18:53:27: Function - getBooks(): starting...
+10/10/2025, 18:53:27: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 18:53:27: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 18:53:27: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 18:53:27: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 18:54:42: /categoriesrequest received
+10/10/2025, 18:54:42: getCategories(): categories request received
+10/10/2025, 18:54:42: /categoriesrequest received
+10/10/2025, 18:54:42: getCategories(): categories request received
+10/10/2025, 18:56:45: /categoriesrequest received
+10/10/2025, 18:56:45: getCategories(): categories request received
+10/10/2025, 18:56:45: /categoriesrequest received
+10/10/2025, 18:56:45: getCategories(): categories request received
+10/10/2025, 18:56:49: /categoriesrequest received
+10/10/2025, 18:56:49: getCategories(): categories request received
+10/10/2025, 18:56:49: /categoriesrequest received
+10/10/2025, 18:56:49: getCategories(): categories request received
+10/10/2025, 18:56:50: /categoriesrequest received
+10/10/2025, 18:56:50: getCategories(): categories request received
+10/10/2025, 18:56:50: /categoriesrequest received
+10/10/2025, 18:56:50: getCategories(): categories request received
+10/10/2025, 18:57:03: /cardsrequest received
+10/10/2025, 18:57:03: getcards/ cards data requested
+10/10/2025, 18:57:03: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 18:57:04: /categoriesrequest received
+10/10/2025, 18:57:04: getCategories(): categories request received
+10/10/2025, 18:57:04: /categoriesrequest received
+10/10/2025, 18:57:04: getCategories(): categories request received
+10/10/2025, 18:57:04: /booksrequest received
+10/10/2025, 18:57:04: Function - getBooks(): starting...
+10/10/2025, 18:57:13: /cardsrequest received
+10/10/2025, 18:57:13: getcards/ cards data requested
+10/10/2025, 18:57:13: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 18:57:13: /categoriesrequest received
+10/10/2025, 18:57:13: getCategories(): categories request received
+10/10/2025, 18:57:13: /categoriesrequest received
+10/10/2025, 18:57:13: getCategories(): categories request received
+10/10/2025, 18:57:13: /booksrequest received
+10/10/2025, 18:57:13: Function - getBooks(): starting...
+10/10/2025, 18:57:14: /cardsrequest received
+10/10/2025, 18:57:14: getcards/ cards data requested
+10/10/2025, 18:57:14: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 18:57:14: /categoriesrequest received
+10/10/2025, 18:57:14: getCategories(): categories request received
+10/10/2025, 18:57:14: /categoriesrequest received
+10/10/2025, 18:57:14: getCategories(): categories request received
+10/10/2025, 18:57:14: /booksrequest received
+10/10/2025, 18:57:14: Function - getBooks(): starting...
+10/10/2025, 18:57:29: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 18:57:29: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 18:57:30: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 18:57:30: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 18:57:36: /cardsrequest received
+10/10/2025, 18:57:36: getcards/ cards data requested
+10/10/2025, 18:57:36: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 18:57:36: /categoriesrequest received
+10/10/2025, 18:57:36: getCategories(): categories request received
+10/10/2025, 18:57:36: /categoriesrequest received
+10/10/2025, 18:57:36: getCategories(): categories request received
+10/10/2025, 18:57:36: /booksrequest received
+10/10/2025, 18:57:36: Function - getBooks(): starting...
+10/10/2025, 18:57:36: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 18:57:36: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 18:57:36: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 18:57:36: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 18:59:13: /cardsrequest received
+10/10/2025, 18:59:13: getcards/ cards data requested
+10/10/2025, 18:59:13: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 18:59:13: /categoriesrequest received
+10/10/2025, 18:59:13: getCategories(): categories request received
+10/10/2025, 18:59:13: /categoriesrequest received
+10/10/2025, 18:59:13: getCategories(): categories request received
+10/10/2025, 18:59:13: /booksrequest received
+10/10/2025, 18:59:13: Function - getBooks(): starting...
+10/10/2025, 18:59:13: /files/Gemini_Generated_Image_5p741h5p741h5p74.pngrequest received
+10/10/2025, 18:59:13: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.pngrequest received
+10/10/2025, 18:59:13: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.pngrequest received
+10/10/2025, 18:59:13: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.pngrequest received
+10/10/2025, 19:03:30: /categoriesrequest received
+10/10/2025, 19:03:30: getCategories(): categories request received
+10/10/2025, 19:03:52: /categoriesrequest received
+10/10/2025, 19:03:52: getCategories(): categories request received
+10/10/2025, 19:06:51: /categoriesrequest received
+10/10/2025, 19:06:51: getCategories(): categories request received
+10/10/2025, 19:06:51: /booksrequest received
+10/10/2025, 19:06:51: Function - getBooks(): starting...
+10/10/2025, 19:06:54: /categoriesrequest received
+10/10/2025, 19:06:54: getCategories(): categories request received
+10/10/2025, 19:06:54: /booksrequest received
+10/10/2025, 19:06:54: Function - getBooks(): starting...
+10/10/2025, 19:06:58: /categoriesrequest received
+10/10/2025, 19:06:58: getCategories(): categories request received
+10/10/2025, 19:06:58: /booksrequest received
+10/10/2025, 19:06:58: Function - getBooks(): starting...
+10/10/2025, 19:07:01: /categoriesrequest received
+10/10/2025, 19:07:01: getCategories(): categories request received
+10/10/2025, 19:07:01: /booksrequest received
+10/10/2025, 19:07:01: Function - getBooks(): starting...
+10/10/2025, 19:07:05: /categoriesrequest received
+10/10/2025, 19:07:05: getCategories(): categories request received
+10/10/2025, 19:07:05: /booksrequest received
+10/10/2025, 19:07:05: Function - getBooks(): starting...
+10/10/2025, 19:26:05: /categoriesrequest received
+10/10/2025, 19:26:05: getCategories(): categories request received
+10/10/2025, 19:26:05: /categoriesrequest received
+10/10/2025, 19:26:05: getCategories(): categories request received
+10/10/2025, 19:26:05: /booksrequest received
+10/10/2025, 19:26:05: Function - getBooks(): starting...
+10/10/2025, 19:27:01: /categoriesrequest received
+10/10/2025, 19:27:01: getCategories(): categories request received
+10/10/2025, 19:27:01: /booksrequest received
+10/10/2025, 19:27:01: Function - getBooks(): starting...
+10/10/2025, 19:27:04: /categoriesrequest received
+10/10/2025, 19:27:04: getCategories(): categories request received
+10/10/2025, 19:27:04: /booksrequest received
+10/10/2025, 19:27:04: Function - getBooks(): starting...
+10/10/2025, 19:27:05: /categoriesrequest received
+10/10/2025, 19:27:05: getCategories(): categories request received
+10/10/2025, 19:27:05: /booksrequest received
+10/10/2025, 19:27:05: Function - getBooks(): starting...
+10/10/2025, 19:27:08: /categoriesrequest received
+10/10/2025, 19:27:08: getCategories(): categories request received
+10/10/2025, 19:27:08: /booksrequest received
+10/10/2025, 19:27:08: Function - getBooks(): starting...
+10/10/2025, 19:27:13: /categoriesrequest received
+10/10/2025, 19:27:13: getCategories(): categories request received
+10/10/2025, 19:27:13: /booksrequest received
+10/10/2025, 19:27:13: Function - getBooks(): starting...
+10/10/2025, 19:27:17: /categoriesrequest received
+10/10/2025, 19:27:17: getCategories(): categories request received
+10/10/2025, 19:27:17: /booksrequest received
+10/10/2025, 19:27:17: Function - getBooks(): starting...
+10/10/2025, 19:27:44: /cardsrequest received
+10/10/2025, 19:27:44: getcards/ cards data requested
+10/10/2025, 19:27:44: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 19:27:44: /categoriesrequest received
+10/10/2025, 19:27:44: getCategories(): categories request received
+10/10/2025, 19:27:44: /categoriesrequest received
+10/10/2025, 19:27:44: getCategories(): categories request received
+10/10/2025, 19:27:44: /booksrequest received
+10/10/2025, 19:27:44: Function - getBooks(): starting...
+10/10/2025, 19:28:11: /cardsrequest received
+10/10/2025, 19:28:11: getcards/ cards data requested
+10/10/2025, 19:28:11: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 19:28:11: /categoriesrequest received
+10/10/2025, 19:28:11: getCategories(): categories request received
+10/10/2025, 19:28:11: /categoriesrequest received
+10/10/2025, 19:28:11: getCategories(): categories request received
+10/10/2025, 19:28:11: /booksrequest received
+10/10/2025, 19:28:11: Function - getBooks(): starting...
+10/10/2025, 19:28:19: /cardsrequest received
+10/10/2025, 19:28:19: getcards/ cards data requested
+10/10/2025, 19:28:19: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 19:28:19: /categoriesrequest received
+10/10/2025, 19:28:19: getCategories(): categories request received
+10/10/2025, 19:28:19: /categoriesrequest received
+10/10/2025, 19:28:19: getCategories(): categories request received
+10/10/2025, 19:28:19: /booksrequest received
+10/10/2025, 19:28:19: Function - getBooks(): starting...
+10/10/2025, 19:31:14: /cardsrequest received
+10/10/2025, 19:31:14: getcards/ cards data requested
+10/10/2025, 19:31:14: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 19:31:14: /categoriesrequest received
+10/10/2025, 19:31:14: getCategories(): categories request received
+10/10/2025, 19:31:14: /categoriesrequest received
+10/10/2025, 19:31:14: getCategories(): categories request received
+10/10/2025, 19:31:14: /booksrequest received
+10/10/2025, 19:31:14: Function - getBooks(): starting...
+10/10/2025, 19:31:18: /cardsrequest received
+10/10/2025, 19:31:18: getcards/ cards data requested
+10/10/2025, 19:31:18: data fetched:[object Object],[object Object],[object Object],[object Object]
+10/10/2025, 19:31:18: /categoriesrequest received
+10/10/2025, 19:31:18: getCategories(): categories request received
+10/10/2025, 19:31:18: /categoriesrequest received
+10/10/2025, 19:31:18: getCategories(): categories request received
+10/10/2025, 19:31:18: /booksrequest received
+10/10/2025, 19:31:18: Function - getBooks(): starting...

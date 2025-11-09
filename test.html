@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>test</title>
+</head>
+<body>
+    <form id="form" action="http://localhsot:7850/upload" method="post">
+        <input type="file" name="file"/>
+        <input type="submit" value="upload"/>
+        <p id="response"></p>
+    </form>
+    <script>
+        const response = document.getElementById('response')
+        const formElement = document.getElementById('form')
+
+        const submit = (e)=>{
+            e.preventDefault();
+            const form = e.target
+            const formData = new FormData(form)
+            fetch('http://localhost:7850/upload',{
+                method:'POST',
+                body:formData
+            }).then(res=>res.json()).then(data=>{
+                response.innerText = JSON.stringify(data)
+            })
+        }
+        formElement.addEventListener('submit', submit)
+
+    </script>
+</body>
+</html>

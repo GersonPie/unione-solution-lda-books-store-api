@@ -1,0 +1,1735 @@
+14/10/2025: Log File Created
+14/10/2025, 20:04:39: system started
+14/10/2025, 20:17:07: /cards accessed 
+
+14/10/2025, 20:17:07: getcards/ cards data requested
+14/10/2025, 20:17:07: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 20:17:07: /categories accessed 
+
+14/10/2025, 20:17:07: getCategories(): categories request received
+14/10/2025, 20:17:07: /categories accessed 
+
+14/10/2025, 20:17:07: getCategories(): categories request received
+14/10/2025, 20:17:07: /books accessed 
+
+14/10/2025, 20:17:07: Function - getBooks(): starting...
+14/10/2025, 20:17:12: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+14/10/2025, 20:17:12: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+14/10/2025, 20:17:12: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+14/10/2025, 20:17:12: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+14/10/2025, 20:17:20: /cards accessed 
+
+14/10/2025, 20:17:20: getcards/ cards data requested
+14/10/2025, 20:17:20: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 20:17:20: /categories accessed 
+
+14/10/2025, 20:17:20: getCategories(): categories request received
+14/10/2025, 20:17:21: /categories accessed 
+
+14/10/2025, 20:17:21: getCategories(): categories request received
+14/10/2025, 20:17:21: /books accessed 
+
+14/10/2025, 20:17:21: Function - getBooks(): starting...
+14/10/2025, 20:17:21: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+14/10/2025, 20:17:21: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+14/10/2025, 20:17:21: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+14/10/2025, 20:17:21: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+14/10/2025, 20:21:00: /categories accessed 
+
+14/10/2025, 20:21:00: getCategories(): categories request received
+14/10/2025, 20:21:12: /categories accessed 
+
+14/10/2025, 20:21:12: getCategories(): categories request received
+14/10/2025, 20:21:17: /categories accessed 
+
+14/10/2025, 20:21:17: getCategories(): categories request received
+14/10/2025, 20:24:41: /categories accessed 
+
+14/10/2025, 20:24:41: getCategories(): categories request received
+14/10/2025, 20:25:07: /categories accessed 
+
+14/10/2025, 20:25:07: getCategories(): categories request received
+14/10/2025, 20:25:10: /categories accessed 
+
+14/10/2025, 20:25:10: getCategories(): categories request received
+14/10/2025, 20:25:12: /categories accessed 
+
+14/10/2025, 20:25:12: getCategories(): categories request received
+14/10/2025, 20:25:14: /categories accessed 
+
+14/10/2025, 20:25:14: getCategories(): categories request received
+14/10/2025, 20:25:16: /categories accessed 
+
+14/10/2025, 20:25:16: getCategories(): categories request received
+14/10/2025, 20:25:19: /categories accessed 
+
+14/10/2025, 20:25:19: getCategories(): categories request received
+14/10/2025, 20:25:22: /categories accessed 
+
+14/10/2025, 20:25:22: getCategories(): categories request received
+14/10/2025, 20:26:38: /categories accessed 
+
+14/10/2025, 20:26:38: getCategories(): categories request received
+14/10/2025, 20:47:00: /categories accessed 
+
+14/10/2025, 20:47:00: getCategories(): categories request received
+14/10/2025, 20:47:00: /books accessed 
+
+14/10/2025, 20:47:00: Function - getBooks(): starting...
+14/10/2025, 20:47:05: /categories accessed 
+
+14/10/2025, 20:47:05: getCategories(): categories request received
+14/10/2025, 20:47:05: /books accessed 
+
+14/10/2025, 20:47:05: Function - getBooks(): starting...
+14/10/2025, 20:52:37: /cards accessed 
+
+14/10/2025, 20:52:37: getcards/ cards data requested
+14/10/2025, 20:52:37: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 20:52:37: /categories accessed 
+
+14/10/2025, 20:52:37: getCategories(): categories request received
+14/10/2025, 20:52:37: /categories accessed 
+
+14/10/2025, 20:52:37: getCategories(): categories request received
+14/10/2025, 20:52:37: /books accessed 
+
+14/10/2025, 20:52:37: Function - getBooks(): starting...
+14/10/2025, 20:52:37: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+14/10/2025, 20:52:37: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+14/10/2025, 20:52:37: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+14/10/2025, 20:52:37: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+14/10/2025, 21:08:33: /cards accessed 
+
+14/10/2025, 21:08:33: getcards/ cards data requested
+14/10/2025, 21:08:33: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:08:33: /categories accessed 
+
+14/10/2025, 21:08:33: getCategories(): categories request received
+14/10/2025, 21:08:33: /categories accessed 
+
+14/10/2025, 21:08:33: getCategories(): categories request received
+14/10/2025, 21:08:33: /books accessed 
+
+14/10/2025, 21:08:33: Function - getBooks(): starting...
+14/10/2025, 21:08:33: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+14/10/2025, 21:08:33: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+14/10/2025, 21:08:33: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+14/10/2025, 21:08:33: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+14/10/2025, 21:16:13: /categories accessed 
+
+14/10/2025, 21:16:13: getCategories(): categories request received
+14/10/2025, 21:16:21: /categories accessed 
+
+14/10/2025, 21:16:21: getCategories(): categories request received
+14/10/2025, 21:16:24: /categories accessed 
+
+14/10/2025, 21:16:24: getCategories(): categories request received
+14/10/2025, 21:16:32: /categories accessed 
+
+14/10/2025, 21:16:32: getCategories(): categories request received
+14/10/2025, 21:17:55: /categories accessed 
+
+14/10/2025, 21:17:55: getCategories(): categories request received
+14/10/2025, 21:18:38: /categories accessed 
+
+14/10/2025, 21:18:38: getCategories(): categories request received
+14/10/2025, 21:19:53: /cards accessed 
+
+14/10/2025, 21:19:53: getcards/ cards data requested
+14/10/2025, 21:19:53: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:19:56: /cards accessed 
+
+14/10/2025, 21:19:56: getcards/ cards data requested
+14/10/2025, 21:19:56: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:19:59: /cards accessed 
+
+14/10/2025, 21:19:59: getcards/ cards data requested
+14/10/2025, 21:19:59: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:20:39: /cards accessed 
+
+14/10/2025, 21:20:39: getcards/ cards data requested
+14/10/2025, 21:20:39: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:20:46: /cards accessed 
+
+14/10/2025, 21:20:46: getcards/ cards data requested
+14/10/2025, 21:20:46: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:20:48: /cards accessed 
+
+14/10/2025, 21:20:48: getcards/ cards data requested
+14/10/2025, 21:20:48: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:20:59: /cards accessed 
+
+14/10/2025, 21:20:59: getcards/ cards data requested
+14/10/2025, 21:20:59: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:21:04: /cards accessed 
+
+14/10/2025, 21:21:04: getcards/ cards data requested
+14/10/2025, 21:21:04: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:21:31: /cards accessed 
+
+14/10/2025, 21:21:31: getcards/ cards data requested
+14/10/2025, 21:21:31: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:32:33: /cards accessed 
+
+14/10/2025, 21:32:33: getcards/ cards data requested
+14/10/2025, 21:32:33: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:34:47: /categories accessed 
+
+14/10/2025, 21:34:47: getCategories(): categories request received
+14/10/2025, 21:34:47: /categories accessed 
+
+14/10/2025, 21:34:47: getCategories(): categories request received
+14/10/2025, 21:34:47: /books accessed 
+
+14/10/2025, 21:34:47: Function - getBooks(): starting...
+14/10/2025, 21:34:47: /cards accessed 
+
+14/10/2025, 21:34:47: getcards/ cards data requested
+14/10/2025, 21:34:47: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:34:47: /cards accessed 
+
+14/10/2025, 21:34:47: getcards/ cards data requested
+14/10/2025, 21:34:47: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:34:47: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+14/10/2025, 21:34:47: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+14/10/2025, 21:34:47: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+14/10/2025, 21:34:47: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+14/10/2025, 21:35:20: /categories accessed 
+
+14/10/2025, 21:35:20: getCategories(): categories request received
+14/10/2025, 21:35:20: /cards accessed 
+
+14/10/2025, 21:35:20: getcards/ cards data requested
+14/10/2025, 21:35:20: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:35:20: /cards accessed 
+
+14/10/2025, 21:35:20: getcards/ cards data requested
+14/10/2025, 21:35:20: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:37:44: /cards accessed 
+
+14/10/2025, 21:37:44: getcards/ cards data requested
+14/10/2025, 21:37:44: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:37:44: /cards accessed 
+
+14/10/2025, 21:37:44: getcards/ cards data requested
+14/10/2025, 21:37:44: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:37:46: /cards accessed 
+
+14/10/2025, 21:37:46: getcards/ cards data requested
+14/10/2025, 21:37:46: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:37:46: /cards accessed 
+
+14/10/2025, 21:37:46: getcards/ cards data requested
+14/10/2025, 21:37:46: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:54:01: /cards accessed 
+
+14/10/2025, 21:54:01: getcards/ cards data requested
+14/10/2025, 21:54:01: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:54:01: /cards accessed 
+
+14/10/2025, 21:54:01: getcards/ cards data requested
+14/10/2025, 21:54:01: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:55:07: /categories accessed 
+
+14/10/2025, 21:55:07: getCategories(): categories request received
+14/10/2025, 21:55:07: /cards accessed 
+
+14/10/2025, 21:55:07: getcards/ cards data requested
+14/10/2025, 21:55:07: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 21:55:07: /cards accessed 
+
+14/10/2025, 21:55:07: getcards/ cards data requested
+14/10/2025, 21:55:07: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:00:59: /cards accessed 
+
+14/10/2025, 22:00:59: getcards/ cards data requested
+14/10/2025, 22:00:59: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:00:59: /cards accessed 
+
+14/10/2025, 22:00:59: getcards/ cards data requested
+14/10/2025, 22:00:59: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:02:06: /categories accessed 
+
+14/10/2025, 22:02:06: getCategories(): categories request received
+14/10/2025, 22:02:06: /categories accessed 
+
+14/10/2025, 22:02:06: getCategories(): categories request received
+14/10/2025, 22:02:06: /books accessed 
+
+14/10/2025, 22:02:06: Function - getBooks(): starting...
+14/10/2025, 22:02:06: /cards accessed 
+
+14/10/2025, 22:02:06: getcards/ cards data requested
+14/10/2025, 22:02:06: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:02:06: /cards accessed 
+
+14/10/2025, 22:02:06: getcards/ cards data requested
+14/10/2025, 22:02:06: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:02:06: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+14/10/2025, 22:02:06: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+14/10/2025, 22:02:06: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+14/10/2025, 22:02:06: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+14/10/2025, 22:04:18: /categories accessed 
+
+14/10/2025, 22:04:18: getCategories(): categories request received
+14/10/2025, 22:04:18: /categories accessed 
+
+14/10/2025, 22:04:18: getCategories(): categories request received
+14/10/2025, 22:04:18: /books accessed 
+
+14/10/2025, 22:04:18: Function - getBooks(): starting...
+14/10/2025, 22:04:18: /cards accessed 
+
+14/10/2025, 22:04:18: getcards/ cards data requested
+14/10/2025, 22:04:18: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:04:18: /cards accessed 
+
+14/10/2025, 22:04:18: getcards/ cards data requested
+14/10/2025, 22:04:18: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:04:22: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+14/10/2025, 22:04:22: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+14/10/2025, 22:04:22: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+14/10/2025, 22:04:25: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+14/10/2025, 22:06:14: /categories accessed 
+
+14/10/2025, 22:06:14: getCategories(): categories request received
+14/10/2025, 22:06:14: /categories accessed 
+
+14/10/2025, 22:06:14: getCategories(): categories request received
+14/10/2025, 22:06:14: /books accessed 
+
+14/10/2025, 22:06:14: Function - getBooks(): starting...
+14/10/2025, 22:06:14: /cards accessed 
+
+14/10/2025, 22:06:14: getcards/ cards data requested
+14/10/2025, 22:06:14: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:06:14: /cards accessed 
+
+14/10/2025, 22:06:14: getcards/ cards data requested
+14/10/2025, 22:06:14: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:06:14: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+14/10/2025, 22:06:14: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+14/10/2025, 22:06:14: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+14/10/2025, 22:06:14: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+14/10/2025, 22:06:37: /categories accessed 
+
+14/10/2025, 22:06:37: getCategories(): categories request received
+14/10/2025, 22:07:18: /cards accessed 
+
+14/10/2025, 22:07:18: getcards/ cards data requested
+14/10/2025, 22:07:18: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:07:18: /cards accessed 
+
+14/10/2025, 22:07:18: getcards/ cards data requested
+14/10/2025, 22:07:18: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:08:24: /cards accessed 
+
+14/10/2025, 22:08:24: getcards/ cards data requested
+14/10/2025, 22:08:24: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:08:24: /cards accessed 
+
+14/10/2025, 22:08:24: getcards/ cards data requested
+14/10/2025, 22:08:24: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:09:25: /cards accessed 
+
+14/10/2025, 22:09:25: getcards/ cards data requested
+14/10/2025, 22:09:25: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:09:25: /cards accessed 
+
+14/10/2025, 22:09:25: getcards/ cards data requested
+14/10/2025, 22:09:25: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:12:50: /cards accessed 
+
+14/10/2025, 22:12:50: getcards/ cards data requested
+14/10/2025, 22:12:50: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:12:50: /cards accessed 
+
+14/10/2025, 22:12:50: getcards/ cards data requested
+14/10/2025, 22:12:50: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:18:18: /categories accessed 
+
+14/10/2025, 22:18:18: getCategories(): categories request received
+14/10/2025, 22:18:28: /categories accessed 
+
+14/10/2025, 22:18:28: getCategories(): categories request received
+14/10/2025, 22:21:03: /cards accessed 
+
+14/10/2025, 22:21:03: getcards/ cards data requested
+14/10/2025, 22:21:03: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:21:03: /cards accessed 
+
+14/10/2025, 22:21:03: getcards/ cards data requested
+14/10/2025, 22:21:03: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:24:01: /categories accessed 
+
+14/10/2025, 22:24:02: getCategories(): categories request received
+14/10/2025, 22:26:53: /categories accessed 
+
+14/10/2025, 22:26:54: getCategories(): categories request received
+14/10/2025, 22:26:54: /categories accessed 
+
+14/10/2025, 22:26:54: getCategories(): categories request received
+14/10/2025, 22:27:35: /cards accessed 
+
+14/10/2025, 22:27:35: getcards/ cards data requested
+14/10/2025, 22:27:35: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:27:35: /cards accessed 
+
+14/10/2025, 22:27:36: getcards/ cards data requested
+14/10/2025, 22:27:36: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:27:59: /categories accessed 
+
+14/10/2025, 22:27:59: getCategories(): categories request received
+14/10/2025, 22:28:03: /categories accessed 
+
+14/10/2025, 22:28:03: getCategories(): categories request received
+14/10/2025, 22:28:10: /categories accessed 
+
+14/10/2025, 22:28:10: getCategories(): categories request received
+14/10/2025, 22:28:26: /categories accessed 
+
+14/10/2025, 22:28:26: getCategories(): categories request received
+14/10/2025, 22:28:26: /cards accessed 
+
+14/10/2025, 22:28:26: getcards/ cards data requested
+14/10/2025, 22:28:26: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:28:26: /cards accessed 
+
+14/10/2025, 22:28:26: getcards/ cards data requested
+14/10/2025, 22:28:26: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:28:33: /categories accessed 
+
+14/10/2025, 22:28:33: getCategories(): categories request received
+14/10/2025, 22:28:34: /cards accessed 
+
+14/10/2025, 22:28:34: getcards/ cards data requested
+14/10/2025, 22:28:34: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:28:34: /cards accessed 
+
+14/10/2025, 22:28:34: getcards/ cards data requested
+14/10/2025, 22:28:34: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:29:25: /cards accessed 
+
+14/10/2025, 22:29:25: getcards/ cards data requested
+14/10/2025, 22:29:25: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:29:25: /cards accessed 
+
+14/10/2025, 22:29:25: getcards/ cards data requested
+14/10/2025, 22:29:25: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:33:12: /categories accessed 
+
+14/10/2025, 22:33:12: getCategories(): categories request received
+14/10/2025, 22:33:12: /books accessed 
+
+14/10/2025, 22:33:12: Function - getBooks(): starting...
+14/10/2025, 22:35:11: /categories accessed 
+
+14/10/2025, 22:35:11: getCategories(): categories request received
+14/10/2025, 22:35:11: /categories accessed 
+
+14/10/2025, 22:35:11: getCategories(): categories request received
+14/10/2025, 22:35:11: /books accessed 
+
+14/10/2025, 22:35:11: Function - getBooks(): starting...
+14/10/2025, 22:40:57: /categories accessed 
+
+14/10/2025, 22:40:57: getCategories(): categories request received
+14/10/2025, 22:40:57: /books accessed 
+
+14/10/2025, 22:40:57: Function - getBooks(): starting...
+14/10/2025, 22:48:43: /cards accessed 
+
+14/10/2025, 22:48:43: getcards/ cards data requested
+14/10/2025, 22:48:43: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:48:43: /cards accessed 
+
+14/10/2025, 22:48:43: getcards/ cards data requested
+14/10/2025, 22:48:43: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:48:43: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+14/10/2025, 22:48:43: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+14/10/2025, 22:48:43: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+14/10/2025, 22:48:43: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+14/10/2025, 22:51:41: /cards accessed 
+
+14/10/2025, 22:51:41: getcards/ cards data requested
+14/10/2025, 22:51:41: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:51:41: /cards accessed 
+
+14/10/2025, 22:51:41: getcards/ cards data requested
+14/10/2025, 22:51:41: data fetched:[object Object],[object Object],[object Object],[object Object]
+14/10/2025, 22:51:41: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+14/10/2025, 22:51:41: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+14/10/2025, 22:51:41: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+14/10/2025, 22:51:41: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 12:13:13: /categories accessed 
+
+15/10/2025, 12:13:13: getCategories(): categories request received
+15/10/2025, 12:13:13: /categories accessed 
+
+15/10/2025, 12:13:13: getCategories(): categories request received
+15/10/2025, 12:13:13: /books accessed 
+
+15/10/2025, 12:13:13: Function - getBooks(): starting...
+15/10/2025, 12:13:13: /cards accessed 
+
+15/10/2025, 12:13:13: getcards/ cards data requested
+15/10/2025, 12:13:13: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 12:13:13: /cards accessed 
+
+15/10/2025, 12:13:13: getcards/ cards data requested
+15/10/2025, 12:13:13: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 12:13:13: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 12:13:13: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+15/10/2025, 12:13:13: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 12:13:13: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 12:16:05: /categories accessed 
+
+15/10/2025, 12:16:05: getCategories(): categories request received
+15/10/2025, 12:16:09: /categories accessed 
+
+15/10/2025, 12:16:09: getCategories(): categories request received
+15/10/2025, 12:17:29: /cards accessed 
+
+15/10/2025, 12:17:29: getcards/ cards data requested
+15/10/2025, 12:17:29: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 12:17:29: /cards accessed 
+
+15/10/2025, 12:17:29: getcards/ cards data requested
+15/10/2025, 12:17:29: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 12:20:59: /cards accessed 
+
+15/10/2025, 12:20:59: getcards/ cards data requested
+15/10/2025, 12:20:59: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 12:20:59: /cards accessed 
+
+15/10/2025, 12:20:59: getcards/ cards data requested
+15/10/2025, 12:20:59: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 12:21:04: /cards accessed 
+
+15/10/2025, 12:21:04: getcards/ cards data requested
+15/10/2025, 12:21:04: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 12:21:04: /cards accessed 
+
+15/10/2025, 12:21:04: getcards/ cards data requested
+15/10/2025, 12:21:04: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 12:21:04: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 12:21:04: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+15/10/2025, 12:21:04: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 12:21:04: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 12:21:13: /cards accessed 
+
+15/10/2025, 12:21:13: getcards/ cards data requested
+15/10/2025, 12:21:13: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 12:21:13: /cards accessed 
+
+15/10/2025, 12:21:13: getcards/ cards data requested
+15/10/2025, 12:21:13: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:04:32: /cards accessed 
+
+15/10/2025, 13:04:32: getcards/ cards data requested
+15/10/2025, 13:04:32: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:04:32: /cards accessed 
+
+15/10/2025, 13:04:32: getcards/ cards data requested
+15/10/2025, 13:04:32: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:04:32: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 13:04:32: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+15/10/2025, 13:04:32: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 13:04:32: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 13:04:45: /cards accessed 
+
+15/10/2025, 13:04:45: getcards/ cards data requested
+15/10/2025, 13:04:45: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:04:45: /cards accessed 
+
+15/10/2025, 13:04:45: getcards/ cards data requested
+15/10/2025, 13:04:45: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:04:48: /cards accessed 
+
+15/10/2025, 13:04:48: getcards/ cards data requested
+15/10/2025, 13:04:48: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:04:48: /cards accessed 
+
+15/10/2025, 13:04:48: getcards/ cards data requested
+15/10/2025, 13:04:48: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:07:33: /cards accessed 
+
+15/10/2025, 13:07:33: getcards/ cards data requested
+15/10/2025, 13:07:33: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:07:33: /cards accessed 
+
+15/10/2025, 13:07:33: getcards/ cards data requested
+15/10/2025, 13:07:33: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:10:15: /categories accessed 
+
+15/10/2025, 13:10:15: getCategories(): categories request received
+15/10/2025, 13:10:15: /books accessed 
+
+15/10/2025, 13:10:15: Function - getBooks(): starting...
+15/10/2025, 13:10:28: /categories accessed 
+
+15/10/2025, 13:10:28: getCategories(): categories request received
+15/10/2025, 13:10:28: /books accessed 
+
+15/10/2025, 13:10:28: Function - getBooks(): starting...
+15/10/2025, 13:10:33: /categories accessed 
+
+15/10/2025, 13:10:33: getCategories(): categories request received
+15/10/2025, 13:10:33: /books accessed 
+
+15/10/2025, 13:10:33: Function - getBooks(): starting...
+15/10/2025, 13:10:36: /categories accessed 
+
+15/10/2025, 13:10:36: getCategories(): categories request received
+15/10/2025, 13:10:36: /books accessed 
+
+15/10/2025, 13:10:36: Function - getBooks(): starting...
+15/10/2025, 13:10:41: /categories accessed 
+
+15/10/2025, 13:10:41: getCategories(): categories request received
+15/10/2025, 13:10:41: /books accessed 
+
+15/10/2025, 13:10:41: Function - getBooks(): starting...
+15/10/2025, 13:10:49: /categories accessed 
+
+15/10/2025, 13:10:49: getCategories(): categories request received
+15/10/2025, 13:10:49: /books accessed 
+
+15/10/2025, 13:10:49: Function - getBooks(): starting...
+15/10/2025, 13:10:49: /cards accessed 
+
+15/10/2025, 13:10:49: getcards/ cards data requested
+15/10/2025, 13:10:49: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:10:49: /cards accessed 
+
+15/10/2025, 13:10:49: getcards/ cards data requested
+15/10/2025, 13:10:49: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:10:49: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 13:10:49: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+15/10/2025, 13:10:49: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 13:10:50: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 13:10:51: /categories accessed 
+
+15/10/2025, 13:10:51: getCategories(): categories request received
+15/10/2025, 13:10:51: /books accessed 
+
+15/10/2025, 13:10:51: Function - getBooks(): starting...
+15/10/2025, 13:10:58: /cards accessed 
+
+15/10/2025, 13:10:58: getcards/ cards data requested
+15/10/2025, 13:10:58: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:10:58: /cards accessed 
+
+15/10/2025, 13:10:58: getcards/ cards data requested
+15/10/2025, 13:10:58: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:10:58: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 13:10:58: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+15/10/2025, 13:10:58: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 13:10:58: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 13:15:26: /cards accessed 
+
+15/10/2025, 13:15:26: getcards/ cards data requested
+15/10/2025, 13:15:26: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:15:26: /cards accessed 
+
+15/10/2025, 13:15:26: getcards/ cards data requested
+15/10/2025, 13:15:26: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:17:36: /categories accessed 
+
+15/10/2025, 13:17:36: getCategories(): categories request received
+15/10/2025, 13:17:36: /books accessed 
+
+15/10/2025, 13:17:36: Function - getBooks(): starting...
+15/10/2025, 13:17:41: /categories accessed 
+
+15/10/2025, 13:17:41: getCategories(): categories request received
+15/10/2025, 13:17:41: /books accessed 
+
+15/10/2025, 13:17:41: Function - getBooks(): starting...
+15/10/2025, 13:17:41: /cards accessed 
+
+15/10/2025, 13:17:41: getcards/ cards data requested
+15/10/2025, 13:17:41: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:17:42: /cards accessed 
+
+15/10/2025, 13:17:42: getcards/ cards data requested
+15/10/2025, 13:17:42: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:17:42: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 13:17:42: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+15/10/2025, 13:17:42: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 13:17:42: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 13:17:43: /categories accessed 
+
+15/10/2025, 13:17:43: getCategories(): categories request received
+15/10/2025, 13:17:43: /books accessed 
+
+15/10/2025, 13:17:43: Function - getBooks(): starting...
+15/10/2025, 13:19:17: /cards accessed 
+
+15/10/2025, 13:19:17: getcards/ cards data requested
+15/10/2025, 13:19:17: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:19:17: /cards accessed 
+
+15/10/2025, 13:19:17: getcards/ cards data requested
+15/10/2025, 13:19:17: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:19:17: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 13:19:17: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 13:19:17: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+15/10/2025, 13:19:17: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 13:25:07: /cards accessed 
+
+15/10/2025, 13:25:07: getcards/ cards data requested
+15/10/2025, 13:25:07: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:25:07: /cards accessed 
+
+15/10/2025, 13:25:07: getcards/ cards data requested
+15/10/2025, 13:25:07: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:25:07: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 13:25:07: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+15/10/2025, 13:25:07: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 13:25:07: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 13:26:37: /cards accessed 
+
+15/10/2025, 13:26:37: getcards/ cards data requested
+15/10/2025, 13:26:37: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:26:37: /cards accessed 
+
+15/10/2025, 13:26:37: getcards/ cards data requested
+15/10/2025, 13:26:37: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:40:22: /cards accessed 
+
+15/10/2025, 13:40:22: getcards/ cards data requested
+15/10/2025, 13:40:22: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:40:22: /cards accessed 
+
+15/10/2025, 13:40:22: getcards/ cards data requested
+15/10/2025, 13:40:22: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 13:40:22: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 13:40:22: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+15/10/2025, 13:40:22: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 13:40:22: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 13:49:08: /categories accessed 
+
+15/10/2025, 13:49:08: getCategories(): categories request received
+15/10/2025, 13:49:08: /books accessed 
+
+15/10/2025, 13:49:08: Function - getBooks(): starting...
+15/10/2025, 13:59:31: /categories accessed 
+
+15/10/2025, 13:59:31: getCategories(): categories request received
+15/10/2025, 13:59:31: /books accessed 
+
+15/10/2025, 13:59:31: Function - getBooks(): starting...
+15/10/2025, 14:00:02: /categories accessed 
+
+15/10/2025, 14:00:02: getCategories(): categories request received
+15/10/2025, 14:00:02: /books accessed 
+
+15/10/2025, 14:00:02: Function - getBooks(): starting...
+15/10/2025, 14:00:08: /categories accessed 
+
+15/10/2025, 14:00:08: getCategories(): categories request received
+15/10/2025, 14:00:08: /books accessed 
+
+15/10/2025, 14:00:08: Function - getBooks(): starting...
+15/10/2025, 14:02:07: /categories accessed 
+
+15/10/2025, 14:02:07: getCategories(): categories request received
+15/10/2025, 14:02:07: /books accessed 
+
+15/10/2025, 14:02:07: Function - getBooks(): starting...
+15/10/2025, 14:02:09: /categories accessed 
+
+15/10/2025, 14:02:09: getCategories(): categories request received
+15/10/2025, 14:02:09: /books accessed 
+
+15/10/2025, 14:02:09: Function - getBooks(): starting...
+15/10/2025, 14:02:13: /categories accessed 
+
+15/10/2025, 14:02:13: getCategories(): categories request received
+15/10/2025, 14:02:13: /books accessed 
+
+15/10/2025, 14:02:13: Function - getBooks(): starting...
+15/10/2025, 14:02:16: /categories accessed 
+
+15/10/2025, 14:02:16: getCategories(): categories request received
+15/10/2025, 14:02:16: /books accessed 
+
+15/10/2025, 14:02:16: Function - getBooks(): starting...
+15/10/2025, 14:02:19: /categories accessed 
+
+15/10/2025, 14:02:19: getCategories(): categories request received
+15/10/2025, 14:02:19: /books accessed 
+
+15/10/2025, 14:02:19: Function - getBooks(): starting...
+15/10/2025, 14:02:22: /categories accessed 
+
+15/10/2025, 14:02:22: getCategories(): categories request received
+15/10/2025, 14:02:22: /books accessed 
+
+15/10/2025, 14:02:22: Function - getBooks(): starting...
+15/10/2025, 14:02:29: /categories accessed 
+
+15/10/2025, 14:02:29: getCategories(): categories request received
+15/10/2025, 14:02:29: /books accessed 
+
+15/10/2025, 14:02:29: Function - getBooks(): starting...
+15/10/2025, 14:02:31: /categories accessed 
+
+15/10/2025, 14:02:31: getCategories(): categories request received
+15/10/2025, 14:02:31: /books accessed 
+
+15/10/2025, 14:02:31: Function - getBooks(): starting...
+15/10/2025, 14:03:04: /categories accessed 
+
+15/10/2025, 14:03:04: getCategories(): categories request received
+15/10/2025, 14:03:04: /books accessed 
+
+15/10/2025, 14:03:04: Function - getBooks(): starting...
+15/10/2025, 14:04:56: /cards accessed 
+
+15/10/2025, 14:04:56: getcards/ cards data requested
+15/10/2025, 14:04:56: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:04:56: /cards accessed 
+
+15/10/2025, 14:04:56: getcards/ cards data requested
+15/10/2025, 14:04:56: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:04:56: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 14:04:56: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+15/10/2025, 14:04:56: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 14:04:56: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 14:05:12: /cards accessed 
+
+15/10/2025, 14:05:12: getcards/ cards data requested
+15/10/2025, 14:05:12: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:05:12: /cards accessed 
+
+15/10/2025, 14:05:12: getcards/ cards data requested
+15/10/2025, 14:05:12: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:13:32: /categories accessed 
+
+15/10/2025, 14:13:32: getCategories(): categories request received
+15/10/2025, 14:13:32: /categories accessed 
+
+15/10/2025, 14:13:32: getCategories(): categories request received
+15/10/2025, 14:13:32: /books accessed 
+
+15/10/2025, 14:13:32: Function - getBooks(): starting...
+15/10/2025, 14:13:32: /books accessed 
+
+15/10/2025, 14:13:32: Function - getBooks(): starting...
+15/10/2025, 14:13:36: /categories accessed 
+
+15/10/2025, 14:13:36: getCategories(): categories request received
+15/10/2025, 14:13:36: /categories accessed 
+
+15/10/2025, 14:13:36: getCategories(): categories request received
+15/10/2025, 14:13:36: /books accessed 
+
+15/10/2025, 14:13:36: Function - getBooks(): starting...
+15/10/2025, 14:13:36: /books accessed 
+
+15/10/2025, 14:13:36: Function - getBooks(): starting...
+15/10/2025, 14:13:38: /categories accessed 
+
+15/10/2025, 14:13:38: getCategories(): categories request received
+15/10/2025, 14:13:38: /categories accessed 
+
+15/10/2025, 14:13:38: getCategories(): categories request received
+15/10/2025, 14:13:38: /books accessed 
+
+15/10/2025, 14:13:38: Function - getBooks(): starting...
+15/10/2025, 14:13:38: /books accessed 
+
+15/10/2025, 14:13:38: Function - getBooks(): starting...
+15/10/2025, 14:13:41: /categories accessed 
+
+15/10/2025, 14:13:41: getCategories(): categories request received
+15/10/2025, 14:13:41: /categories accessed 
+
+15/10/2025, 14:13:41: getCategories(): categories request received
+15/10/2025, 14:13:41: /books accessed 
+
+15/10/2025, 14:13:41: Function - getBooks(): starting...
+15/10/2025, 14:13:41: /books accessed 
+
+15/10/2025, 14:13:41: Function - getBooks(): starting...
+15/10/2025, 14:13:43: /categories accessed 
+
+15/10/2025, 14:13:43: getCategories(): categories request received
+15/10/2025, 14:13:43: /categories accessed 
+
+15/10/2025, 14:13:43: getCategories(): categories request received
+15/10/2025, 14:13:43: /books accessed 
+
+15/10/2025, 14:13:43: Function - getBooks(): starting...
+15/10/2025, 14:13:43: /books accessed 
+
+15/10/2025, 14:13:43: Function - getBooks(): starting...
+15/10/2025, 14:13:45: /categories accessed 
+
+15/10/2025, 14:13:46: getCategories(): categories request received
+15/10/2025, 14:13:46: /categories accessed 
+
+15/10/2025, 14:13:46: getCategories(): categories request received
+15/10/2025, 14:13:46: /books accessed 
+
+15/10/2025, 14:13:46: Function - getBooks(): starting...
+15/10/2025, 14:13:46: /books accessed 
+
+15/10/2025, 14:13:46: Function - getBooks(): starting...
+15/10/2025, 14:13:48: /categories accessed 
+
+15/10/2025, 14:13:48: getCategories(): categories request received
+15/10/2025, 14:13:48: /categories accessed 
+
+15/10/2025, 14:13:48: getCategories(): categories request received
+15/10/2025, 14:13:48: /books accessed 
+
+15/10/2025, 14:13:48: Function - getBooks(): starting...
+15/10/2025, 14:13:48: /books accessed 
+
+15/10/2025, 14:13:48: Function - getBooks(): starting...
+15/10/2025, 14:13:58: /categories accessed 
+
+15/10/2025, 14:13:58: getCategories(): categories request received
+15/10/2025, 14:13:58: /categories accessed 
+
+15/10/2025, 14:13:58: getCategories(): categories request received
+15/10/2025, 14:13:58: /books accessed 
+
+15/10/2025, 14:13:58: Function - getBooks(): starting...
+15/10/2025, 14:13:58: /books accessed 
+
+15/10/2025, 14:13:58: Function - getBooks(): starting...
+15/10/2025, 14:14:04: /categories accessed 
+
+15/10/2025, 14:14:04: getCategories(): categories request received
+15/10/2025, 14:14:04: /categories accessed 
+
+15/10/2025, 14:14:04: getCategories(): categories request received
+15/10/2025, 14:14:04: /books accessed 
+
+15/10/2025, 14:14:04: Function - getBooks(): starting...
+15/10/2025, 14:14:04: /books accessed 
+
+15/10/2025, 14:14:04: Function - getBooks(): starting...
+15/10/2025, 14:14:17: /categories accessed 
+
+15/10/2025, 14:14:17: getCategories(): categories request received
+15/10/2025, 14:14:17: /books accessed 
+
+15/10/2025, 14:14:17: Function - getBooks(): starting...
+15/10/2025, 14:14:18: /categories accessed 
+
+15/10/2025, 14:14:18: getCategories(): categories request received
+15/10/2025, 14:14:19: /books accessed 
+
+15/10/2025, 14:14:19: Function - getBooks(): starting...
+15/10/2025, 14:14:25: /categories accessed 
+
+15/10/2025, 14:14:25: getCategories(): categories request received
+15/10/2025, 14:14:25: /books accessed 
+
+15/10/2025, 14:14:25: Function - getBooks(): starting...
+15/10/2025, 14:16:56: /cards accessed 
+
+15/10/2025, 14:16:56: getcards/ cards data requested
+15/10/2025, 14:16:56: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:16:56: /cards accessed 
+
+15/10/2025, 14:16:56: getcards/ cards data requested
+15/10/2025, 14:16:56: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:16:56: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 14:16:56: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+15/10/2025, 14:16:56: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 14:16:56: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 14:17:09: /cards accessed 
+
+15/10/2025, 14:17:09: getcards/ cards data requested
+15/10/2025, 14:17:09: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:17:09: /cards accessed 
+
+15/10/2025, 14:17:09: getcards/ cards data requested
+15/10/2025, 14:17:09: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:27:05: /categories accessed 
+
+15/10/2025, 14:27:05: getCategories(): categories request received
+15/10/2025, 14:27:05: /books accessed 
+
+15/10/2025, 14:27:05: Function - getBooks(): starting...
+15/10/2025, 14:34:06: /books accessed 
+
+15/10/2025, 14:34:06: Function - getBooks(): starting...
+15/10/2025, 14:34:06: /categories accessed 
+
+15/10/2025, 14:34:06: getCategories(): categories request received
+15/10/2025, 14:34:06: /books accessed 
+
+15/10/2025, 14:34:06: Function - getBooks(): starting...
+15/10/2025, 14:34:06: /categories accessed 
+
+15/10/2025, 14:34:06: getCategories(): categories request received
+15/10/2025, 14:34:07: /cards accessed 
+
+15/10/2025, 14:34:07: getcards/ cards data requested
+15/10/2025, 14:34:07: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:34:07: /cards accessed 
+
+15/10/2025, 14:34:07: getcards/ cards data requested
+15/10/2025, 14:34:07: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:34:07: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 14:34:07: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+15/10/2025, 14:34:07: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 14:34:07: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 14:34:43: /books accessed 
+
+15/10/2025, 14:34:43: Function - getBooks(): starting...
+15/10/2025, 14:34:43: /categories accessed 
+
+15/10/2025, 14:34:43: getCategories(): categories request received
+15/10/2025, 14:34:44: /books accessed 
+
+15/10/2025, 14:34:44: Function - getBooks(): starting...
+15/10/2025, 14:34:44: /categories accessed 
+
+15/10/2025, 14:34:44: getCategories(): categories request received
+15/10/2025, 14:34:46: /books accessed 
+
+15/10/2025, 14:34:46: Function - getBooks(): starting...
+15/10/2025, 14:34:46: /categories accessed 
+
+15/10/2025, 14:34:46: getCategories(): categories request received
+15/10/2025, 14:34:46: /books accessed 
+
+15/10/2025, 14:34:46: Function - getBooks(): starting...
+15/10/2025, 14:34:46: /categories accessed 
+
+15/10/2025, 14:34:46: getCategories(): categories request received
+15/10/2025, 14:35:02: /cards accessed 
+
+15/10/2025, 14:35:02: getcards/ cards data requested
+15/10/2025, 14:35:02: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:35:02: /cards accessed 
+
+15/10/2025, 14:35:02: getcards/ cards data requested
+15/10/2025, 14:35:02: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:35:02: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 14:35:02: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+15/10/2025, 14:35:02: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 14:35:02: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 14:38:53: /cards accessed 
+
+15/10/2025, 14:38:53: getcards/ cards data requested
+15/10/2025, 14:38:53: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:38:53: /cards accessed 
+
+15/10/2025, 14:38:53: getcards/ cards data requested
+15/10/2025, 14:38:53: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:38:53: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 14:38:53: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+15/10/2025, 14:38:53: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 14:38:53: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 14:44:32: /books accessed 
+
+15/10/2025, 14:44:32: Function - getBooks(): starting...
+15/10/2025, 14:44:32: /categories accessed 
+
+15/10/2025, 14:44:32: getCategories(): categories request received
+15/10/2025, 14:44:32: /books accessed 
+
+15/10/2025, 14:44:32: Function - getBooks(): starting...
+15/10/2025, 14:44:32: /categories accessed 
+
+15/10/2025, 14:44:32: getCategories(): categories request received
+15/10/2025, 14:44:32: /cards accessed 
+
+15/10/2025, 14:44:32: getcards/ cards data requested
+15/10/2025, 14:44:32: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:44:32: /cards accessed 
+
+15/10/2025, 14:44:32: getcards/ cards data requested
+15/10/2025, 14:44:32: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:44:32: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 14:44:32: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+15/10/2025, 14:44:32: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 14:44:32: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 14:48:10: /books accessed 
+
+15/10/2025, 14:48:10: Function - getBooks(): starting...
+15/10/2025, 14:48:10: /categories accessed 
+
+15/10/2025, 14:48:10: getCategories(): categories request received
+15/10/2025, 14:48:10: /books accessed 
+
+15/10/2025, 14:48:10: Function - getBooks(): starting...
+15/10/2025, 14:48:10: /categories accessed 
+
+15/10/2025, 14:48:10: getCategories(): categories request received
+15/10/2025, 14:48:11: /books accessed 
+
+15/10/2025, 14:48:11: Function - getBooks(): starting...
+15/10/2025, 14:48:11: /categories accessed 
+
+15/10/2025, 14:48:11: getCategories(): categories request received
+15/10/2025, 14:48:11: /books accessed 
+
+15/10/2025, 14:48:11: Function - getBooks(): starting...
+15/10/2025, 14:48:11: /categories accessed 
+
+15/10/2025, 14:48:11: getCategories(): categories request received
+15/10/2025, 14:48:11: /cards accessed 
+
+15/10/2025, 14:48:11: getcards/ cards data requested
+15/10/2025, 14:48:11: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:48:11: /cards accessed 
+
+15/10/2025, 14:48:11: getcards/ cards data requested
+15/10/2025, 14:48:11: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:48:11: /cards accessed 
+
+15/10/2025, 14:48:11: getcards/ cards data requested
+15/10/2025, 14:48:11: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:48:11: /cards accessed 
+
+15/10/2025, 14:48:11: getcards/ cards data requested
+15/10/2025, 14:48:11: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:48:11: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 14:48:12: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+15/10/2025, 14:48:14: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 14:48:14: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 14:48:47: /cards accessed 
+
+15/10/2025, 14:48:47: getcards/ cards data requested
+15/10/2025, 14:48:47: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:48:47: /cards accessed 
+
+15/10/2025, 14:48:47: getcards/ cards data requested
+15/10/2025, 14:48:47: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:49:29: /cards accessed 
+
+15/10/2025, 14:49:29: getcards/ cards data requested
+15/10/2025, 14:49:29: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:49:29: /cards accessed 
+
+15/10/2025, 14:49:29: getcards/ cards data requested
+15/10/2025, 14:49:29: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:50:09: /cards accessed 
+
+15/10/2025, 14:50:09: getcards/ cards data requested
+15/10/2025, 14:50:09: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:50:09: /cards accessed 
+
+15/10/2025, 14:50:09: getcards/ cards data requested
+15/10/2025, 14:50:09: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:50:51: /books accessed 
+
+15/10/2025, 14:50:51: Function - getBooks(): starting...
+15/10/2025, 14:50:51: /categories accessed 
+
+15/10/2025, 14:50:51: getCategories(): categories request received
+15/10/2025, 14:50:51: /books accessed 
+
+15/10/2025, 14:50:51: Function - getBooks(): starting...
+15/10/2025, 14:50:51: /categories accessed 
+
+15/10/2025, 14:50:51: getCategories(): categories request received
+15/10/2025, 14:50:52: /cards accessed 
+
+15/10/2025, 14:50:52: getcards/ cards data requested
+15/10/2025, 14:50:52: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:50:52: /cards accessed 
+
+15/10/2025, 14:50:52: getcards/ cards data requested
+15/10/2025, 14:50:52: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:51:01: /books accessed 
+
+15/10/2025, 14:51:01: Function - getBooks(): starting...
+15/10/2025, 14:51:01: /categories accessed 
+
+15/10/2025, 14:51:01: getCategories(): categories request received
+15/10/2025, 14:51:01: /books accessed 
+
+15/10/2025, 14:51:01: Function - getBooks(): starting...
+15/10/2025, 14:51:01: /categories accessed 
+
+15/10/2025, 14:51:01: getCategories(): categories request received
+15/10/2025, 14:51:18: /cards accessed 
+
+15/10/2025, 14:51:18: getcards/ cards data requested
+15/10/2025, 14:51:18: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:51:18: /cards accessed 
+
+15/10/2025, 14:51:18: getcards/ cards data requested
+15/10/2025, 14:51:18: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:51:24: /books accessed 
+
+15/10/2025, 14:51:24: Function - getBooks(): starting...
+15/10/2025, 14:51:24: /categories accessed 
+
+15/10/2025, 14:51:24: getCategories(): categories request received
+15/10/2025, 14:51:24: /books accessed 
+
+15/10/2025, 14:51:24: Function - getBooks(): starting...
+15/10/2025, 14:51:24: /categories accessed 
+
+15/10/2025, 14:51:24: getCategories(): categories request received
+15/10/2025, 14:51:33: /books accessed 
+
+15/10/2025, 14:51:33: Function - getBooks(): starting...
+15/10/2025, 14:51:33: /categories accessed 
+
+15/10/2025, 14:51:33: getCategories(): categories request received
+15/10/2025, 14:51:33: /books accessed 
+
+15/10/2025, 14:51:33: Function - getBooks(): starting...
+15/10/2025, 14:51:33: /categories accessed 
+
+15/10/2025, 14:51:33: getCategories(): categories request received
+15/10/2025, 14:51:33: /cards accessed 
+
+15/10/2025, 14:51:33: getcards/ cards data requested
+15/10/2025, 14:51:33: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:51:33: /cards accessed 
+
+15/10/2025, 14:51:33: getcards/ cards data requested
+15/10/2025, 14:51:33: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:51:52: /books accessed 
+
+15/10/2025, 14:51:52: Function - getBooks(): starting...
+15/10/2025, 14:51:52: /categories accessed 
+
+15/10/2025, 14:51:52: getCategories(): categories request received
+15/10/2025, 14:51:52: /books accessed 
+
+15/10/2025, 14:51:52: Function - getBooks(): starting...
+15/10/2025, 14:51:52: /categories accessed 
+
+15/10/2025, 14:51:52: getCategories(): categories request received
+15/10/2025, 14:52:59: /cards accessed 
+
+15/10/2025, 14:52:59: getcards/ cards data requested
+15/10/2025, 14:52:59: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:52:59: /cards accessed 
+
+15/10/2025, 14:52:59: getcards/ cards data requested
+15/10/2025, 14:52:59: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:53:55: /cards accessed 
+
+15/10/2025, 14:53:55: getcards/ cards data requested
+15/10/2025, 14:53:55: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:53:55: /cards accessed 
+
+15/10/2025, 14:53:55: getcards/ cards data requested
+15/10/2025, 14:53:55: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:55:35: /cards accessed 
+
+15/10/2025, 14:55:35: getcards/ cards data requested
+15/10/2025, 14:55:35: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:55:35: /cards accessed 
+
+15/10/2025, 14:55:35: getcards/ cards data requested
+15/10/2025, 14:55:35: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:55:35: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 14:55:35: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+15/10/2025, 14:55:35: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 14:55:35: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 14:57:02: /books accessed 
+
+15/10/2025, 14:57:02: Function - getBooks(): starting...
+15/10/2025, 14:57:02: /categories accessed 
+
+15/10/2025, 14:57:02: getCategories(): categories request received
+15/10/2025, 14:57:02: /books accessed 
+
+15/10/2025, 14:57:02: Function - getBooks(): starting...
+15/10/2025, 14:57:02: /categories accessed 
+
+15/10/2025, 14:57:02: getCategories(): categories request received
+15/10/2025, 14:57:02: /cards accessed 
+
+15/10/2025, 14:57:02: getcards/ cards data requested
+15/10/2025, 14:57:02: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:57:02: /cards accessed 
+
+15/10/2025, 14:57:02: getcards/ cards data requested
+15/10/2025, 14:57:02: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:58:22: /books accessed 
+
+15/10/2025, 14:58:22: Function - getBooks(): starting...
+15/10/2025, 14:58:22: /categories accessed 
+
+15/10/2025, 14:58:22: getCategories(): categories request received
+15/10/2025, 14:58:26: /books accessed 
+
+15/10/2025, 14:58:26: Function - getBooks(): starting...
+15/10/2025, 14:58:26: /categories accessed 
+
+15/10/2025, 14:58:26: getCategories(): categories request received
+15/10/2025, 14:58:26: /books accessed 
+
+15/10/2025, 14:58:26: Function - getBooks(): starting...
+15/10/2025, 14:58:26: /categories accessed 
+
+15/10/2025, 14:58:26: getCategories(): categories request received
+15/10/2025, 14:58:26: /cards accessed 
+
+15/10/2025, 14:58:26: getcards/ cards data requested
+15/10/2025, 14:58:26: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:58:26: /cards accessed 
+
+15/10/2025, 14:58:26: getcards/ cards data requested
+15/10/2025, 14:58:26: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:59:10: /books accessed 
+
+15/10/2025, 14:59:10: Function - getBooks(): starting...
+15/10/2025, 14:59:10: /categories accessed 
+
+15/10/2025, 14:59:10: getCategories(): categories request received
+15/10/2025, 14:59:10: /books accessed 
+
+15/10/2025, 14:59:10: Function - getBooks(): starting...
+15/10/2025, 14:59:10: /categories accessed 
+
+15/10/2025, 14:59:10: getCategories(): categories request received
+15/10/2025, 14:59:10: /cards accessed 
+
+15/10/2025, 14:59:10: getcards/ cards data requested
+15/10/2025, 14:59:10: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:59:10: /cards accessed 
+
+15/10/2025, 14:59:10: getcards/ cards data requested
+15/10/2025, 14:59:10: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:59:29: /books accessed 
+
+15/10/2025, 14:59:29: Function - getBooks(): starting...
+15/10/2025, 14:59:29: /categories accessed 
+
+15/10/2025, 14:59:29: getCategories(): categories request received
+15/10/2025, 14:59:29: /books accessed 
+
+15/10/2025, 14:59:29: Function - getBooks(): starting...
+15/10/2025, 14:59:29: /categories accessed 
+
+15/10/2025, 14:59:29: getCategories(): categories request received
+15/10/2025, 14:59:30: /cards accessed 
+
+15/10/2025, 14:59:30: getcards/ cards data requested
+15/10/2025, 14:59:30: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:59:30: /cards accessed 
+
+15/10/2025, 14:59:30: getcards/ cards data requested
+15/10/2025, 14:59:30: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:59:51: /books accessed 
+
+15/10/2025, 14:59:51: Function - getBooks(): starting...
+15/10/2025, 14:59:51: /categories accessed 
+
+15/10/2025, 14:59:51: getCategories(): categories request received
+15/10/2025, 14:59:51: /books accessed 
+
+15/10/2025, 14:59:51: Function - getBooks(): starting...
+15/10/2025, 14:59:51: /categories accessed 
+
+15/10/2025, 14:59:51: getCategories(): categories request received
+15/10/2025, 14:59:51: /cards accessed 
+
+15/10/2025, 14:59:51: getcards/ cards data requested
+15/10/2025, 14:59:51: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:59:51: /cards accessed 
+
+15/10/2025, 14:59:51: getcards/ cards data requested
+15/10/2025, 14:59:51: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:59:51: /books accessed 
+
+15/10/2025, 14:59:51: Function - getBooks(): starting...
+15/10/2025, 14:59:51: /categories accessed 
+
+15/10/2025, 14:59:51: getCategories(): categories request received
+15/10/2025, 14:59:51: /books accessed 
+
+15/10/2025, 14:59:51: Function - getBooks(): starting...
+15/10/2025, 14:59:51: /categories accessed 
+
+15/10/2025, 14:59:51: getCategories(): categories request received
+15/10/2025, 14:59:51: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 14:59:51: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+15/10/2025, 14:59:51: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 14:59:51: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 14:59:51: /cards accessed 
+
+15/10/2025, 14:59:51: getcards/ cards data requested
+15/10/2025, 14:59:51: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 14:59:51: /cards accessed 
+
+15/10/2025, 14:59:51: getcards/ cards data requested
+15/10/2025, 14:59:51: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 15:00:42: /books accessed 
+
+15/10/2025, 15:00:42: Function - getBooks(): starting...
+15/10/2025, 15:00:42: /categories accessed 
+
+15/10/2025, 15:00:42: getCategories(): categories request received
+15/10/2025, 15:00:42: /books accessed 
+
+15/10/2025, 15:00:42: Function - getBooks(): starting...
+15/10/2025, 15:00:42: /categories accessed 
+
+15/10/2025, 15:00:42: getCategories(): categories request received
+15/10/2025, 15:00:43: /books accessed 
+
+15/10/2025, 15:00:43: Function - getBooks(): starting...
+15/10/2025, 15:00:43: /categories accessed 
+
+15/10/2025, 15:00:43: getCategories(): categories request received
+15/10/2025, 15:00:43: /books accessed 
+
+15/10/2025, 15:00:43: Function - getBooks(): starting...
+15/10/2025, 15:00:43: /categories accessed 
+
+15/10/2025, 15:00:43: getCategories(): categories request received
+15/10/2025, 15:00:52: /books accessed 
+
+15/10/2025, 15:00:52: Function - getBooks(): starting...
+15/10/2025, 15:00:52: /categories accessed 
+
+15/10/2025, 15:00:52: getCategories(): categories request received
+15/10/2025, 15:00:52: /books accessed 
+
+15/10/2025, 15:00:52: Function - getBooks(): starting...
+15/10/2025, 15:00:52: /categories accessed 
+
+15/10/2025, 15:00:52: getCategories(): categories request received
+15/10/2025, 15:01:08: /books accessed 
+
+15/10/2025, 15:01:08: Function - getBooks(): starting...
+15/10/2025, 15:01:08: /categories accessed 
+
+15/10/2025, 15:01:08: getCategories(): categories request received
+15/10/2025, 15:01:08: /books accessed 
+
+15/10/2025, 15:01:08: Function - getBooks(): starting...
+15/10/2025, 15:01:08: /categories accessed 
+
+15/10/2025, 15:01:08: getCategories(): categories request received
+15/10/2025, 15:01:10: /books accessed 
+
+15/10/2025, 15:01:10: Function - getBooks(): starting...
+15/10/2025, 15:01:10: /categories accessed 
+
+15/10/2025, 15:01:10: getCategories(): categories request received
+15/10/2025, 15:01:10: /books accessed 
+
+15/10/2025, 15:01:10: Function - getBooks(): starting...
+15/10/2025, 15:01:10: /categories accessed 
+
+15/10/2025, 15:01:10: getCategories(): categories request received
+15/10/2025, 15:01:25: /books accessed 
+
+15/10/2025, 15:01:25: Function - getBooks(): starting...
+15/10/2025, 15:01:25: /categories accessed 
+
+15/10/2025, 15:01:25: getCategories(): categories request received
+15/10/2025, 15:01:25: /books accessed 
+
+15/10/2025, 15:01:25: Function - getBooks(): starting...
+15/10/2025, 15:01:25: /categories accessed 
+
+15/10/2025, 15:01:25: getCategories(): categories request received
+15/10/2025, 15:01:34: /books accessed 
+
+15/10/2025, 15:01:34: Function - getBooks(): starting...
+15/10/2025, 15:01:34: /categories accessed 
+
+15/10/2025, 15:01:34: getCategories(): categories request received
+15/10/2025, 15:01:34: /books accessed 
+
+15/10/2025, 15:01:34: Function - getBooks(): starting...
+15/10/2025, 15:01:34: /categories accessed 
+
+15/10/2025, 15:01:34: getCategories(): categories request received
+15/10/2025, 15:01:34: /cards accessed 
+
+15/10/2025, 15:01:34: getcards/ cards data requested
+15/10/2025, 15:01:34: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 15:01:34: /cards accessed 
+
+15/10/2025, 15:01:34: getcards/ cards data requested
+15/10/2025, 15:01:34: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 15:03:29: /books accessed 
+
+15/10/2025, 15:03:29: Function - getBooks(): starting...
+15/10/2025, 15:03:29: /categories accessed 
+
+15/10/2025, 15:03:29: getCategories(): categories request received
+15/10/2025, 15:03:29: /books accessed 
+
+15/10/2025, 15:03:29: Function - getBooks(): starting...
+15/10/2025, 15:03:29: /categories accessed 
+
+15/10/2025, 15:03:29: getCategories(): categories request received
+15/10/2025, 15:03:29: /books accessed 
+
+15/10/2025, 15:03:29: Function - getBooks(): starting...
+15/10/2025, 15:03:29: /categories accessed 
+
+15/10/2025, 15:03:29: getCategories(): categories request received
+15/10/2025, 15:03:29: /books accessed 
+
+15/10/2025, 15:03:29: Function - getBooks(): starting...
+15/10/2025, 15:03:29: /categories accessed 
+
+15/10/2025, 15:03:29: getCategories(): categories request received
+15/10/2025, 15:03:29: /cards accessed 
+
+15/10/2025, 15:03:29: getcards/ cards data requested
+15/10/2025, 15:03:29: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 15:03:30: /cards accessed 
+
+15/10/2025, 15:03:30: getcards/ cards data requested
+15/10/2025, 15:03:30: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 15:03:32: /books accessed 
+
+15/10/2025, 15:03:32: Function - getBooks(): starting...
+15/10/2025, 15:03:32: /categories accessed 
+
+15/10/2025, 15:03:32: getCategories(): categories request received
+15/10/2025, 15:03:32: /books accessed 
+
+15/10/2025, 15:03:32: Function - getBooks(): starting...
+15/10/2025, 15:03:32: /categories accessed 
+
+15/10/2025, 15:03:32: getCategories(): categories request received
+15/10/2025, 15:03:32: /cards accessed 
+
+15/10/2025, 15:03:32: getcards/ cards data requested
+15/10/2025, 15:03:32: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 15:03:32: /cards accessed 
+
+15/10/2025, 15:03:32: getcards/ cards data requested
+15/10/2025, 15:03:32: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 15:04:03: /cards accessed 
+
+15/10/2025, 15:04:03: getcards/ cards data requested
+15/10/2025, 15:04:03: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 15:04:03: /cards accessed 
+
+15/10/2025, 15:04:03: getcards/ cards data requested
+15/10/2025, 15:04:03: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 15:04:17: /cards accessed 
+
+15/10/2025, 15:04:17: getcards/ cards data requested
+15/10/2025, 15:04:17: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 15:04:17: /cards accessed 
+
+15/10/2025, 15:04:17: getcards/ cards data requested
+15/10/2025, 15:04:17: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 15:04:53: /books accessed 
+
+15/10/2025, 15:04:53: Function - getBooks(): starting...
+15/10/2025, 15:04:53: /categories accessed 
+
+15/10/2025, 15:04:53: getCategories(): categories request received
+15/10/2025, 15:04:53: /cards accessed 
+
+15/10/2025, 15:04:53: getcards/ cards data requested
+15/10/2025, 15:04:53: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 15:04:53: /cards accessed 
+
+15/10/2025, 15:04:53: getcards/ cards data requested
+15/10/2025, 15:04:53: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 15:04:54: /books accessed 
+
+15/10/2025, 15:04:54: Function - getBooks(): starting...
+15/10/2025, 15:04:54: /categories accessed 
+
+15/10/2025, 15:04:54: getCategories(): categories request received
+15/10/2025, 15:04:54: /cards accessed 
+
+15/10/2025, 15:04:54: getcards/ cards data requested
+15/10/2025, 15:04:54: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 15:04:54: /cards accessed 
+
+15/10/2025, 15:04:54: getcards/ cards data requested
+15/10/2025, 15:04:54: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 17:17:54: /cards accessed 
+
+15/10/2025, 17:17:55: getcards/ cards data requested
+15/10/2025, 17:17:55: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 17:17:55: /cards accessed 
+
+15/10/2025, 17:17:55: getcards/ cards data requested
+15/10/2025, 17:17:55: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 17:17:58: /cards accessed 
+
+15/10/2025, 17:17:58: getcards/ cards data requested
+15/10/2025, 17:17:58: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 17:17:58: /cards accessed 
+
+15/10/2025, 17:17:58: getcards/ cards data requested
+15/10/2025, 17:17:58: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 17:19:10: /cards accessed 
+
+15/10/2025, 17:19:10: getcards/ cards data requested
+15/10/2025, 17:19:10: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 17:19:10: /cards accessed 
+
+15/10/2025, 17:19:10: getcards/ cards data requested
+15/10/2025, 17:19:10: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 17:19:10: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 17:19:10: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
+15/10/2025, 17:19:10: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 17:19:10: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 17:21:15: /cards accessed 
+
+15/10/2025, 17:21:15: getcards/ cards data requested
+15/10/2025, 17:21:15: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 17:21:15: /cards accessed 
+
+15/10/2025, 17:21:15: getcards/ cards data requested
+15/10/2025, 17:21:15: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 17:24:59: /books accessed 
+
+15/10/2025, 17:24:59: Function - getBooks(): starting...
+15/10/2025, 17:24:59: /categories accessed 
+
+15/10/2025, 17:24:59: getCategories(): categories request received
+15/10/2025, 17:24:59: /books accessed 
+
+15/10/2025, 17:24:59: Function - getBooks(): starting...
+15/10/2025, 17:24:59: /categories accessed 
+
+15/10/2025, 17:24:59: getCategories(): categories request received
+15/10/2025, 17:25:39: /cards accessed 
+
+15/10/2025, 17:25:39: getcards/ cards data requested
+15/10/2025, 17:25:39: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 17:25:39: /cards accessed 
+
+15/10/2025, 17:25:39: getcards/ cards data requested
+15/10/2025, 17:25:39: data fetched:[object Object],[object Object],[object Object],[object Object]
+15/10/2025, 17:25:39: /files/Gemini_Generated_Image_5p741h5p741h5p74.png accessed 
+
+15/10/2025, 17:25:39: /files/grok-image-6d0c3601-8a3a-4ee0-86bc-e86f1b0ed95c.png accessed 
+
+15/10/2025, 17:25:39: /files/Gemini_Generated_Image_tl5s3itl5s3itl5s.png accessed 
+
+15/10/2025, 17:25:39: /files/Gemini_Generated_Image_gqnkwegqnkwegqnk.png accessed 
+
