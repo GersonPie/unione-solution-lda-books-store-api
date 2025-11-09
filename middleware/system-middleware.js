@@ -5,7 +5,7 @@ const system_middleware = (req,res,next)=>{
 }
 const uploadMidleware = (req,res)=>{
   sendlog('file uploaded: ' + req.file.originalname)
-  res.json({link: `http://localhost:${process.env.PORT}/files/${req.file.filename}`})
+  res.json({link: `https://books-store-api-two.vercel.app/files/${req.file.filename}`})
 }
 
 module.exports = {system_middleware,uploadMidleware}

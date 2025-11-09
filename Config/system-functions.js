@@ -1,15 +1,15 @@
 //import {appendFileSync, mkdirSync, existsSync, rename} from 'node:fs'
 const fs = require('fs')
 const multer = require('multer')
-const LOG_PATH = `log/${new Date().toLocaleDateString().replace(/\//g, '-')}.txt`
+const LOG_PATH = `./log/${new Date().toLocaleDateString().replace(/\//g, '-')}.txt`
 const {appendFileSync, mkdirSync, existsSync, rename} = fs
 
 const system = {
     MODE: process.env.MODE,
 }
 
-if(!existsSync('log')){
-    mkdirSync('log', { recursive: true });
+if(!existsSync('./log')){
+    mkdirSync('./log', { recursive: true });
     console.log(`${new Date().toLocaleString()}: log folder was created`);
 }
 
@@ -31,7 +31,7 @@ const sendlog = (str) => {
 //upload files functions
 const storage = multer.diskStorage({
     destination: (req, file, cb) => {
-        cb(null, 'uploads/');
+        cb(null, './uploads/');
     },
     filename: (req, file, cb) => {
         
